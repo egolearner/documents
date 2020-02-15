@@ -1,5 +1,5 @@
 ## [Your Life is Driven by Network Effects](https://www.nfx.com/post/your-life-network-effects)
-* 20190207， 20分钟阅读时间+10分钟看[youtube视频](https://www.youtube.com/watch?v=HdnXuKi_2Zw)，文章太长，没有完整看完。
+* 20200207， 20分钟阅读时间+10分钟看[youtube视频](https://www.youtube.com/watch?v=HdnXuKi_2Zw)，文章太长，没有完整看完。
 * ⭐⭐
 #### 摘抄
 * What that means is that the little decisions you make daily, the ones you fret over, are orders of magnitude less important than the crossroads decisions you make.
@@ -24,3 +24,19 @@
 * 反思。人有自由意志，永远可以做出新的选择。
 
 除第七个外，其中影响最大的个人觉得是家庭和人生伴侣，基本会影响一生，像高中、大学、第一份工作在某个阶段无疑会有很重要的影响，但随着时间推移，影响越来越小。所在城市这点想到最近的新冠肺炎，心有戚戚，君子不立危樯之下，一定要主动做好选择。
+
+## [Fun with NULL pointers](https://lwn.net/Articles/342330/)
+* 20200215，大概30分钟
+* ⭐⭐
+#### 主要内容
+文章讲了一系列问题导致的内核漏洞。
+```c
++	struct sock *sk = tun->sk;
+	if (!tun)
+	    return POLLERR;
+```
+上面带+号的一栏，在检查空指针前先解引用了指针，gcc的逻辑是dereference空指针是UB行为，前面dereference了指针，gcc认为指针一定不为空，因此将后面的if检查优化没了。LLVM之父有篇关于LLVM利用UB做优化的[博客](http://blog.llvm.org/2011/05/what-every-c-programmer-should-know.html)，后面有空再好好看下。\
+正常内存第0页是通过`mmap_min_addr`保护的，不允许映射第0页，但是SELinux开启之后反而允许了。攻击者mmap到第0页后，`sk`受攻击者控制，可以继续运行后面的攻击逻辑。
+#### 评论
+安全问题就像木桶效应，有一个环节有问题就前功尽弃。\
+以前没考虑过0地址也是可以有内容的。
