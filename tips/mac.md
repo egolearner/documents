@@ -16,7 +16,7 @@ sudo networksetup -setdnsservers Wi-fi 8.8.8.8 `networksetup -getdnsservers Wi-f
 * Rime配置
 ```bash
 # 备份配置然后重装
-mv ~Library/Rime{,.bak}
+mv ~/Library/Rime{,.bak}
 # 安装超强音形
 '/Library/Input Methods/Squirrel.app/Contents/MacOS/rime-install' pinyin-simp whjiang/cqeb
 # 创建配置
