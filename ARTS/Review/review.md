@@ -52,6 +52,7 @@ C++11之后的概念越来越多，就像C++之父说的"C++11 is like a new lan
 ## [Vue.js: The Documentary](https://www.youtube.com/watch?v=OrxmtDw4pVI)
 * 20200229，34分钟
 * ⭐⭐⭐
+
 关于Vue.js的记录片，有印象的点包括：
 * Vue是view的法语，发音相同。想起内部某项目也是用法语命名，大概是英文不够fancy，常用词在搜索引擎中也不好搜的缘故吧。
 * 作者在Google做可视化工作时发起的个人项目。side-project最好还是和工作有关，比较容易得到反馈。
