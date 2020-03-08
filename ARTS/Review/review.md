@@ -58,3 +58,32 @@ C++11之后的概念越来越多，就像C++之父说的"C++11 is like a new lan
 * 作者在Google做可视化工作时发起的个人项目。side-project最好还是和工作有关，比较容易得到反馈。
 * 早期的重要传播节点为Laravel的创始人。项目质量重要，大V引流同样重要。
 * 重视中文社区的建设，一方面作者是中国人，另一方面中国的开发者在开源界越来越重要。
+
+## [Writing Docs at Amazon](https://blog.usejournal.com/writing-docs-at-amazon-e025808616bd)
+* 20200308, 加上一个链接约20分钟
+* ⭐⭐
+#### 主要内容
+[这篇文章](https://slab.com/blog/jeff-bezos-writing-management-strategy/)讲，亚马逊老板Bezos在公司禁止使用PPT，而是要求写6页信息密集的故事体的结构化备忘录，因为"Clear Thinking Is Clear Writing"。原因包括：ppt信息量低，丢失很多信息，利于演讲者不利于听众；便于传播头脑风暴的结论。
+
+本文主要讲Amazon写文档的方式。
+
+0. 一般为段落或散文，不能光有要点，还需要有支撑性的语句。
+1. 注意语法和拼写错误。
+2. 理解文档要达到的目标。
+3. Minimize surface area / leave out extraneous stuff。要切题，无关内容写到另外的文档中。
+4. 开会时有合适的人出席。
+5. Check your ego at the door. 大意是Bezos会挑战，准备好辩论、讨论或者改变心态。
+6. Be sure to “show your work.” 文中举例说如果团队内有讨论的话，要把各种观点和最终结论写清楚，给出的理由是Bezos有更全面的信息，文档的观点可能明显有错误或者对于公司是不必要的。
+7. 客户第一（Represent and advocate for the customer）。
+8. 不要让同事或老板吃惊，不能会前悄悄改文档。
+9. 文档不完备的话，延期开会。
+10. 想得足够大。如果文档是确定问题或者给出方案，想清楚后面的逻辑。举例是如果某方案是把竞争对手的差距从20年减少到10年，Bezos是不满意的。
+11. Read the room（意思是to understand the emotions and thoughts of the people in the room）。说服不了老板的话，准备更多的论据或者换种方式，或者被老板说服。
+12. 不能模糊或者过于戏剧化，要有数字。
+
+#### 评论
+文档的信息量反而不如引文大，大多数条款是众所周知的，正如作者说"the rules of the road for an Amazon document are no different than those for good, clear writing in general"。比较有启发的是2和10，永远不要忘记目标，要有大局观。
+
+引文只读了关于写作的部分，后面有时间再全部读下。
+
+再强调下，Clear Thinking Is Clear Writing。
