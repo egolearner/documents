@@ -5,3 +5,7 @@
     std_out, std_err = pipes.communicate()
     return pipes.returncode, std_out, std_err
 ```
+* convert archive python package to wheel
+```bash
+pip wheel foo.tar.gz
+```
