@@ -87,3 +87,13 @@ C++11之后的概念越来越多，就像C++之父说的"C++11 is like a new lan
 引文只读了关于写作的部分，后面有时间再全部读下。
 
 再强调下，Clear Thinking Is Clear Writing。
+
+## [Off-CPU Analysis](http://www.brendangregg.com/offcpuanalysis.html)
+* 20200315
+* ⭐⭐⭐
+#### 主要内容
+Off-cpu性能分析，即分析程序block的时间，如等待io、等待mutex等的分析，对应下图蓝色部分。
+![](http://www.brendangregg.com/Perf/thread_states.png)
+文中使用的工具依赖eBPF，需要4.8以上kernel，公司内还用不了。
+
+题外话，动态追踪技术之前听说过systemtap，翻过eBPF的书，但没有实战过。本来觉得eBPF比stap领先，但看了openresty的[这篇文章](https://blog.openresty.com.cn/cn/dynamic-tracing/)，里面说“eBPF 在设计上一直有严重的限制，使得那些基于 eBPF 开发的动态追踪工具始终停留在较为简单的水平上”，再加上公司内用不了eBPF，还是先学下stap吧。
