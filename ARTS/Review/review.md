@@ -97,3 +97,14 @@ Off-cpu性能分析，即分析程序block的时间，如等待io、等待mutex�
 文中使用的工具依赖eBPF，需要4.8以上kernel，公司内还用不了。
 
 题外话，动态追踪技术之前听说过systemtap，翻过eBPF的书，但没有实战过。本来觉得eBPF比stap领先，但看了openresty的[这篇文章](https://blog.openresty.com.cn/cn/dynamic-tracing/)，里面说“eBPF 在设计上一直有严重的限制，使得那些基于 eBPF 开发的动态追踪工具始终停留在较为简单的水平上”，再加上公司内用不了eBPF，还是先学下stap吧。
+
+## [The Problem with Saying “Don’t Bring Me Problems, Bring Me Solutions”](https://hbr.org/2017/09/the-problem-with-saying-dont-bring-me-problems-bring-me-solutions)
+* 20200322
+* ⭐⭐
+#### 主要内容
+“提出解决方案而非问题”的问题在于并非所有问题都有简单的解决方案，每个人只用自己的视角解决问题，引导“报喜不报忧”的氛围。解决变法为
+* Make it safe. 让人们不怕带来坏消息。（想到了王小波的《花刺子模信使问题》）。
+* 要求提供问题描述而非抱怨。抱怨的特点是很多绝对性的语句（总是，每次)，缺失事实性的描述，把人们描述为恶棍（他们）和英雄（我们）。而问题描述提供客观事实，分析底层原因，包括每个人在导致问题上的角色，甚至不避讳问题提出者自身。（类似于《非暴力沟通》中的区分事实和判断）。
+* 找到解决问题的正确的人。提出者有能力解决但可能需要授权或者指导，或者需要其他人来解决。
+#### 评论
+带着方案提问题 > 提出问题 >> 让问题悄悄发酵。
