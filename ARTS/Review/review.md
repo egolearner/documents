@@ -108,3 +108,80 @@ Off-cpu性能分析，即分析程序block的时间，如等待io、等待mutex�
 * 找到解决问题的正确的人。提出者有能力解决但可能需要授权或者指导，或者需要其他人来解决。
 #### 评论
 带着方案提问题 > 提出问题 >> 让问题悄悄发酵。
+
+## [Peeking into Linux kernel-land using /proc filesystem for quick’n’dirty troubleshooting](https://tanelpoder.com/2013/02/21/peeking-into-linux-kernel-land-using-proc-filesystem-for-quickndirty-troubleshooting/)
+* 20200329
+* ⭐⭐⭐
+#### 主要内容
+利用/proc定位进程hang的分析过程
+1. top查看进程的使用率为0，说明进程要么完全卡住、要么周期性的从等待状态醒来再去等待
+2. strace和psatck都卡住
+3. `ps -flp pid`查看WCHAN列，其含义为进程sleep时kernel执行的函数。确定是在等rpc。
+```shell
+[root@oel6 ~]# ps -flp 27288
+F S UID        PID  PPID  C PRI  NI ADDR SZ WCHAN  STIME TTY          TIME CMD
+0 D root     27288 27245  0  80   0 - 28070 rpc_wa 11:57 pts/0    00:00:01 find . -type f
+# 显示不完整，通过cat命令查看完整的wchan
+[root@oel6 ~]# cat /proc/27288/wchan
+rpc_wait_bit_killable
+```
+4. 通过查看context swich count看进程是否完全卡住，发现上下文切换数没有增加
+```shell
+[root@oel6 ~]# cat /proc/27288/status
+State:	D (disk sleep)
+voluntary_ctxt_switches:	9950
+nonvoluntary_ctxt_switches:	17104
+
+# 也可以从sched查看
+cat /proc/27288/sched
+nr_switches                        :                27054
+nr_voluntary_switches              :                 9950
+nr_involuntary_switches            :                17104
+```
+5. 查看进程正在执行的系统调用
+```shell
+[root@oel6 ~]# cat /proc/27288/syscall
+262 0xffffffffffffff9c 0x20cf6c8 0x7fff97c52710 0x100 0x100 0x676e776f645f616d 0x7fff97c52658 0x390e2da8ea
+
+[root@oel6 ~]# grep 262 /usr/include/asm/unistd_64.h
+#define __NR_newfstatat				262
+```
+6. 查看newfstatat的调用栈
+```shell
+[root@oel6 ~]# cat /proc/27288/stack
+[] rpc_wait_bit_killable+0x24/0x40 [sunrpc]
+[] __rpc_execute+0xf5/0x1d0 [sunrpc]
+[] rpc_execute+0x43/0x50 [sunrpc]
+[] rpc_run_task+0x75/0x90 [sunrpc]
+[] rpc_call_sync+0x42/0x70 [sunrpc]
+[] nfs3_rpc_wrapper.clone.0+0x35/0x80 [nfs]
+[] nfs3_proc_getattr+0x47/0x90 [nfs]
+[] __nfs_revalidate_inode+0xcc/0x1f0 [nfs]
+[] nfs_revalidate_inode+0x36/0x60 [nfs]
+[] nfs_getattr+0x5f/0x110 [nfs]
+[] vfs_getattr+0x4e/0x80
+[] vfs_fstatat+0x70/0x90
+[] sys_newfstatat+0x24/0x50
+[] system_call_fastpath+0x16/0x1b
+[] 0xffffffffffffffff
+```
+
+##### 穷人的内核线程profile
+```shell
+[root@oel6 ~]# export LC_ALL=C ; for i in {1..100} ; do cat /proc/29797/syscall | awk '{ print $1 }' ; cat /proc/29797/stack | /home/oracle/os_explain -k ; usleep 100000 ; done | sort -r | uniq -c
+@oel6 ~]# export LC_ALL=C ; for i in {1..100} ; do cat /proc/29797/syscall | awk '{ print $1 }' ; cat /proc/29797/stack | /home/oracle/os_explain -k ; usleep 100000 ; done | sort -r | uniq -c
+     69 running
+      1 ffffff81534c83
+      2 ffffff81534820
+      6 247
+     25 180
+
+    100    0xffffffffffffffff
+      1     thread_group_cputime
+     27     sysenter_dispatch
+      3     ia32_sysret
+	  ...
+```
+
+#### 评论
+`proc`文件系统有必要系统性的看下，文章提到的很多文件都是第一次看到。
