@@ -186,7 +186,7 @@ nr_involuntary_switches            :                17104
 #### 评论
 `proc`文件系统有必要系统性的看下，文章提到的很多文件都是第一次看到。
 
-### [Tips From The Top: One On One With Eric Yuan, Founder & CEO Of Zoom](https://thriveglobal.com/stories/tips-from-the-top-one-on-one-with-eric-yuan-founder-ceo-of-zoom/)
+## [Tips From The Top: One On One With Eric Yuan, Founder & CEO Of Zoom](https://thriveglobal.com/stories/tips-from-the-top-one-on-one-with-eric-yuan-founder-ceo-of-zoom/)
 * 20200405 7分钟
 * ⭐⭐
 #### 主要内容
@@ -210,3 +210,24 @@ ZOOM CEO兼创始人Eric Yuan的采访，比较偏鸡汤。新冠期间ZOOM股�
 
 ##### 别人给的最有用的建议
 * 找到愿意投资“你”的投资人，而不仅仅是你的公司，可以得到更多的信任和支持。
+
+## [How Complex Systems Fail ](http://web.mit.edu/2.75/resources/random/How%20Complex%20Systems%20Fail.pdf)
+* 20200412，约25分钟
+* ⭐⭐
+* [视频](http://www.itskeptic.org/great-paper-failure-complex-systems)
+#### 主要内容
+关于复杂系统为什么失败的小论文，一些有体会的点包括
+* 1 复杂系统本质上就是高风险的。内部的各种风险驱动了防御式的设计（也就是2）。
+* 3 灾难需要多个失败，单点故障不足以导致灾难。虽然每个失败都有可能造成灾难，但因为有2的防御，多个失败才足够导致灾难。换句话说，可能的失败机会远比表现出的系统故障要多。
+* 4 复杂系统包含多个潜在风险的可变混合物。经济成本和可行性决定了风险无法彻底消除。
+* 5 因此系统永远运行在降级模式。
+* 7 事后灾难归因根本上就是错的。故障需要多个错误（3），因此没有完全隔离的根因。
+* 8 后见之明导致事后评估人员表现出现偏差。事后看导致问题的原因比当时看更加显而易见。
+* 9 从业者的双重身份：生产者和事故预防者。事故前强调生产者的身份，事故后强调预防者的身份。
+* 10 所有从业者行为都是在赌博。发生事故时如此，正常运行时也是如此。
+* 13-14 人的经验一直在变，改变又会引入新的失败。
+#### 评论
+面对复杂系统我们能做什么？
+* 设立规章制度。人是最不可靠的，需要将过去的规律、事故分析总结成规章制度，要求严格按照制度来做，一如飞行员的检查清单一样。至于制度束缚人的创造力就是另一话题了。
+* 自动化测试和定期演练。这里主要针对软件系统。通过自动化测试及时发现系统的降级，使用类似chaos monkey的手段来倒逼系统的可靠性。
+* 积累经验。从自己的失败甚至是别人的失败学习经验。
