@@ -285,3 +285,20 @@ ZOOM CEO兼创始人Eric Yuan的采访，比较偏鸡汤。新冠期间ZOOM股�
 权限最小集
 
 ##### 买还是自己构建？
+
+### [hacker news 讨论](https://news.ycombinator.com/item?id=22876554)
+You might be a Senior Software Engineer at one place but called a Staff engineer at another place, but they're broadly comparable, and the seniority criteria show a very clear progression: **the more senior you get the more influence you are showing across the organisation, whether that means managing larger projects, mentoring other staff, consulting with other teams on best known practices, or influencing other parts of the company inter-discplinary projects.**
+
+What is more amazing is their managers who have figured out how to work the system are not telling people that. Your job should be helping your people get where they want to go so if they can't get there tell them why.
+
+I tell my developers this repeatedly, in the form of "**making yourself 10% better is not as good as making everyone you work with 1% better**".
+
+The 1% contribution to others is good for the manager, because he gets to take credit for the entire team. The 10% self improvement is good for that individual, because he can leverage that into a better paying role.
+
+I can speak by experience that the tech lead is often not the most technically proficient on the team. They are the one who helps others the most. They are the one who talks with the most people beyond their team. If I am looking for a lead, I am looking for the person who people look to for help.
+
+**learn how to deal with people, learn how organizations work, build capital and get onto the money side of things; but don't let your ego get tricked into the shiny tech lead and manager titles as those are only mirages of wealth.**
+
+I spent many years deciding promotions at a big tech company, including for Sr managers. **One thing we always looked into was were they growing the talent on their teams, mentoring, growing skills, and getting people promoted. People understood this was one of the criteria for manager promotions, so they spent time on it (and documented it).**
+
+级别越高，影响力越重要。个人提升10%不如帮周围人提升1%。
