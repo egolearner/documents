@@ -302,3 +302,24 @@ I can speak by experience that the tech lead is often not the most technically p
 I spent many years deciding promotions at a big tech company, including for Sr managers. **One thing we always looked into was were they growing the talent on their teams, mentoring, growing skills, and getting people promoted. People understood this was one of the criteria for manager promotions, so they spent time on it (and documented it).**
 
 级别越高，影响力越重要。个人提升10%不如帮周围人提升1%。
+
+## [The two questions I ask every interviewer](https://blog.wesleyac.com/posts/two-interview-questions)
+* 20200425， 10分钟
+* ⭐
+### 主要内容
+作者面试时问面试官的两个问题：
+* 面试候选人时你的目标是什么？
+* 如何评估你是否实现了目标？
+
+第一个问题作者得到的答案是：找最好的、看候选人是否适合公司、评估候选人是否能做好工作。作者认为最好的选项是3，但只有10%的公司给他的答案是3.
+
+第二个问题作者得到的答案是“不评估”。作者认为没有任何反馈是有问题的。
+
+作者认为需要做的事情是
+* 给已有员工进行面试，如果有人面失败了，那么是否应该炒掉？答案很可能是否。
+* 创建“验证集”，关注面试失败的人的后续表现。
+
+根据这些来调试面试流程。
+
+### 评论
+作者说的问题存在，但很难解决。大公司一般不缺少候选人，一般是n轮面试，有一个面试官给出NO就挂了；小公司候选人少，一般技术负责人、老板+hr最多2-3面，面试结果更加主观化（？）。 进大公司需要一定的运气成本，有一个面试官气场不合可能就game over了，可以多面几个部门和过段时间再试一下。
