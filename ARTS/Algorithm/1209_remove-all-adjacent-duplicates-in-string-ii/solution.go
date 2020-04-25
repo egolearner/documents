@@ -12,6 +12,7 @@ func removeDuplicates(s string, k int) string {
 		}
 		cur_cnt %= k
 		if cur_cnt > 0 {
+			// XXX 忘了减去pop_cnt
 			for i := 0; i < cur_cnt-pop_cnt; i++ {
 				result = append(result, cur)
 			}
