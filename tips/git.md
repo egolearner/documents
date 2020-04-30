@@ -42,3 +42,7 @@ git mergetool path
 git rev-parse --short HEAD
 ```
 
+* 显示没有track的文件
+```
+git ls-files -o
+```
