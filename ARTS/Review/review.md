@@ -323,3 +323,9 @@ I spent many years deciding promotions at a big tech company, including for Sr m
 
 ### 评论
 作者说的问题存在，但很难解决。大公司一般不缺少候选人，一般是n轮面试，有一个面试官给出NO就挂了；小公司候选人少，一般技术负责人、老板+hr最多2-3面，面试结果更加主观化（？）。 进大公司需要一定的运气成本，有一个面试官气场不合可能就game over了，可以多面几个部门和过段时间再试一下。
+
+## [Working in Sillicon Valley](https://eduardosasso.co/blog/working-in-silicon-valley/)
+* 20200503
+* ⭐
+### 主要内容
+讲了作者在硅谷的经历，作者本来在巴西，关于旅行的App拿到了风投，然后在硅谷留下来足迹。后来去了一家叫Gogobot的创业公司，当时英语一般、到公司后学习RoR（看起来作者是做技术的，但不知道怎么得到工作机会的）。然后公司不断发展壮大，在VC的帮助下买下了trip.com的域名，最后被携城的子公司收购，作者也得到了一笔足以提前退休的收入。过程中作者也在美国娶妻生女买房入籍。
