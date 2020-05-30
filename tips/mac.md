@@ -37,3 +37,35 @@ punctuator:
     '%' : '%'
     '*' : '*'
 ```
+
+* applescript关闭钉钉数字
+```applescript
+on run argv
+	if (count of argv) > 0 then
+		set showNumber to (item 1 of argv as boolean)
+	else
+		set showNumber to false
+	end if
+
+
+	tell application "DingTalk" to activate
+
+	delay 0.01
+	tell application "System Events" to tell process "DingTalk"
+		keystroke "," using command down
+		tell window 1
+			click button "通知" of toolbar 1
+			set snBox to checkbox "在菜单图标上显示未读消息数"
+			tell snBox
+				set actual to its value as boolean
+				if actual is not equal to showNumber then
+					click snBox
+				end if
+			end tell
+			keystroke "w" using command down
+		end tell
+		#set visible of it to false
+	end tell
+	tell application "System Events" to keystroke tab using command down
+end run
+```
