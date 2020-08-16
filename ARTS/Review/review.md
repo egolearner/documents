@@ -340,3 +340,11 @@ Rust 1.0发布5年的总结，其中列出了Rust的一些重要特性。
 * Rust有一定使用量了，但似乎不如go流行（国内尤其如此），缺少一些类似docker、云原生之类的标志性场景。
 * Rust确实是better C++，但是几年内还是撼动不了C++的地位。
 
+## [The NoSQL Ecosystem](http://aosabook.org/en/nosql.html)
+* 20200815
+* ⭐⭐⭐
+### 主要内容
+见 https://www.notion.so/The-NoSQL-Ecosystem-c02238054b5a427c9ac6a7b489030144
+### 评论
+看起来大多数都在DDIA中讲过，DDIA需要再看一遍并记录笔记。
+
