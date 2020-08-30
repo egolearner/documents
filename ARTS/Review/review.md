@@ -348,3 +348,26 @@ Rust 1.0发布5年的总结，其中列出了Rust的一些重要特性。
 ### 评论
 看起来大多数都在DDIA中讲过，DDIA需要再看一遍并记录笔记。
 
+## [Never Run ‘python’ In Your Downloads Folder](https://glyph.twistedmatrix.com/2020/08/never-run-python-in-your-downloads-folder.html)
+* 20200830
+* ⭐⭐⭐
+### 主要内容
+python默认会将当前目录和脚本所在目录加入sys.path中，所以下面的命令都是不安全的
+* `python ~/Downloads/safe_script.py`
+* ~/Downloads $ `python -m pip install numpy`
+都可能会import Downloads目录中的恶意脚本。
+
+### 评论
+安全漏洞无处不在，想起大学课上老师讲的linux root管理员陷阱了
+1. 恶意用户将当前目录加入其PATH中，并放入恶意的可执行程序，如ls, pwd等
+2. 声称有问题，让管理员协助其处理
+3. 如果管理员用`su`命令的话会继续使用之前的PATH，执行恶意用户的程序。相反应该用`su -`切换用户。
+
+## [Metric and Log Monitoring: Do You Really Need Both?](https://www.splunk.com/en_us/blog/it/metric-log-monitoring-really-need.html)
+* 20200830
+* ⭐⭐⭐
+* 另一篇相关的文章：[LOGS AND TIME SERIES ARE NOT THE SAME](https://www.philipotoole.com/logs-and-time-series-are-not-the-same/)
+### 主要内容
+* metrics可以做聚合计算，如avg/max/p99等，一般用于监控和报警。
+* logs包含原始的信息，需要接入Elastic Search等做搜索。
+* 先用metrics来发现问题，如果metrics不足以定位原因的话，再通过logs找到详细信息。
