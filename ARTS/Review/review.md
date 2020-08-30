@@ -355,6 +355,7 @@ Rust 1.0发布5年的总结，其中列出了Rust的一些重要特性。
 python默认会将当前目录和脚本所在目录加入sys.path中，所以下面的命令都是不安全的
 * `python ~/Downloads/safe_script.py`
 * ~/Downloads $ `python -m pip install numpy`
+
 都可能会import Downloads目录中的恶意脚本。
 
 ### 评论
