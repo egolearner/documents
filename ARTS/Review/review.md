@@ -372,3 +372,38 @@ python默认会将当前目录和脚本所在目录加入sys.path中，所以下
 * metrics可以做聚合计算，如avg/max/p99等，一般用于监控和报警。
 * logs包含原始的信息，需要接入Elastic Search等做搜索。
 * 先用metrics来发现问题，如果metrics不足以定位原因的话，再通过logs找到详细信息。
+
+## [Battle for Wesnoth](http://aosabook.org/en/wesnoth.html)
+### 主要内容
+架构设计面向accessbility，能够让非专业人员参与到项目的贡献中。
+
+#### WML
+
+核心使用C++完成，用户通过编辑WSL(Wesnoth Markup Language)来贡献。不使用XML的原因是希望对非技术背景的用户更加友好，在可视化数据方面更加relaxed。
+
+- 通过预处理器将多个WSL文件合成一个文件。
+- 修改需要全量加载，通过cache等降低影响。
+
+#### Unit
+
+使用unit类来表示作战单位，使用unit_type来表示不同单位的不可变属性。而没有使用虚函数加继承的方式，如`virtual bool is_invisible() const`接口。后一种方式的缺点是
+
+- 添加新的unit需要添加C++类，对贡献者不友好。
+- 不方便组合。
+
+前一种方式可以让用户只编辑WML就可以组合已有技能来添加新的unit。
+
+技能实现到引擎中，而在WML中可以组合技能。
+
+#### 多人对战实现
+
+作者认为重点是提供休闲游戏，而不是太关注输赢榜单，没有为反作弊做过多的设计。
+
+每个行动都对应WML node。描述玩家行动的WML command发给server，server发送给其他玩家client，client做重放。支持observer也是用的类似的方式，但没有类似checkpoint的功能，虽然可以快进，但还是单步重放。
+
+#### 结论
+
+- 在设计时考虑低技能程序员的挑战。
+
+### 评论
+收获不太大，主要是知道了技能是如何实现的。
