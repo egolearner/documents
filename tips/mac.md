@@ -69,3 +69,16 @@ on run argv
 	tell application "System Events" to keystroke tab using command down
 end run
 ```
+
+* brew
+```shell
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
+# 基础类
+brew install coreutils findutils gnu-tar gnu-sed gawk grep fortune neovim aria2 youtube-dl curl git asdf ctags
+# App 类
+brew cask install caffeine itsycal sublime-text mendeley macdown clementine appcleaner mpv kdiff3 visual-studio-code maccy squirrel openinterminal rectangle calibre go2shell cheatsheet skim xmind
+# maccy 剪贴板
+# 字体
+brew tap homebrew/cask-fonts                  # tap 类似于 apt 中添加第三方源的 add repository 
+brew cask install font-inconsolata font-fira-code font-source-code-pro
+```
