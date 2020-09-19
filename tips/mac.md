@@ -70,7 +70,7 @@ on run argv
 end run
 ```
 
-* brew
+* brew初始化
 ```shell
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
 # 基础类
@@ -81,4 +81,11 @@ brew cask install caffeine itsycal sublime-text mendeley macdown clementine appc
 # 字体
 brew tap homebrew/cask-fonts                  # tap 类似于 apt 中添加第三方源的 add repository 
 brew cask install font-inconsolata font-fira-code font-source-code-pro
+```
+
+* brew安装指定版本
+```shell
+cd /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula
+通过git log 找到指定版本对应的.rb文件，将求保存到其他目录
+brew install 保存的.rb文件
 ```
