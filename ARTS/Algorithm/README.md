@@ -39,6 +39,7 @@
 |682|[Baseball Game](https://leetcode.com/problems/baseball-game/)|[c++](./682_baseball-game/solution.cpp)|Unknown|
 |880|[Decoded String At Index](https://leetcode.com/problems/decoded-string-at-index/)|[c++](./880_decoded-string-at-index/solution.cpp)|Unknown|
 |980|[Unique Paths Iii](https://leetcode.com/problems/unique-paths-iii/)|[c++](./980_unique-paths-iii/solution.cpp)|Unknown|
+|986|[Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/)|[c++](./986_interval-list-intersections/solution.cpp)|Medium|
 |1038|[Binary Search Tree To Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/)|[c++](./1038_binary-search-tree-to-greater-sum-tree/solution.cpp)|Unknown|
 |1137|[N Th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)|[c++](./1137_n-th-tribonacci-number/solution.cpp)|Unknown|
 |1200|[Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/)|[c++](./1200_minimum-absolute-difference/solution.cpp)|Unknown|
