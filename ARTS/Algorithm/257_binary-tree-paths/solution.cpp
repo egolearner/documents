@@ -1,3 +1,22 @@
+/*
+Given a binary tree, return all root-to-leaf paths.
+
+Note: A leaf is a node with no children.
+
+Example:
+
+Input:
+
+   1
+ /   \
+2     3
+ \
+  5
+
+Output: ["1->2->5", "1->3"]
+
+Explanation: All root-to-leaf paths are: 1->2->5, 1->3
+*/
 /**
  * Definition for a binary tree node.
  * struct TreeNode {
@@ -37,3 +56,33 @@ public:
         }
     }
 };
+/*
+path可以重用，不需要每次创建新的
+class Solution {
+public:
+    vector<string> binaryTreePaths(TreeNode* root) {
+        if(!root) return {};
+        vector<string> ans;
+        string actual = "";
+        findLeafs(root,ans,actual);
+        return ans;
+    }
+    
+    void findLeafs(TreeNode* root, vector<string> &ans, string &actual) {
+        string add;
+        if(actual == "") add = to_string(root->val);
+        else add += "->" + to_string(root->val);
+        actual += add;
+        if(root->right) {
+            findLeafs(root->right, ans, actual);
+        }
+        if (root->left) {
+            findLeafs(root->left, ans, actual);            
+        }
+        if(!root->right && !root->left) {
+            ans.push_back(actual);
+        }
+        for(int i = 0; i < add.size(); i++) actual.pop_back();
+    }
+};
+*/
