@@ -14,16 +14,21 @@
 |62|[Unique Paths](https://leetcode.com/problems/unique-paths/)|[c++](./62_unique-paths/solution.cpp)|Unknown|
 |63|[Unique Paths Ii](https://leetcode.com/problems/unique-paths-ii/)|[c++](./63_unique-paths-ii/solution.cpp)|Unknown|
 |86|[Partition List](https://leetcode.com/problems/partition-list/)|[c++](./86_partition-list/solution.cpp)|Unknown|
+|94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[c++](./94_binary-tree-inorder-traversal/solution.cpp)|Medium|
 |95|[Unique Binary Search Trees Ii](https://leetcode.com/problems/unique-binary-search-trees-ii/)|[c++](./95_unique-binary-search-trees-ii/solution.cpp)|Unknown|
-|96|[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/)|[c++](./96_unique-binary-search-trees/solution.cpp)|Unknown|
+|96|[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/)|[c++](./96_unique-binary-search-trees/solution.cpp)|Medium|
 |98|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)|[c++](./98_validate-binary-search-tree/solution.cpp)|Unknown|
 |102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)|[c++](./102_binary-tree-level-order-traversal/solution.cpp)|Easy|
+|103|[Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)|[c++](./103_binary-tree-zigzag-level-order-traversal/solution.cpp)|Medium|
 |104|[Maximum Depth Of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[c++](./104_maximum-depth-of-binary-tree/solution.cpp)|Unknown|
 |107|[Binary Tree Level Order Traversal Ii](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)|[c++](./107_binary-tree-level-order-traversal-ii/solution.cpp)|Easy|
 |108|[Convert Sorted Array To Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)|[c++](./108_convert-sorted-array-to-binary-search-tree/solution.cpp)|Unknown|
 |109|[Convert Sorted List To Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/)|[c++](./109_convert-sorted-list-to-binary-search-tree/solution.cpp)|Unknown|
 |112|[Path Sum/](https://leetcode.com/problems/path-sum//)|[c++](./112_path-sum//solution.cpp)|Easy|
 |113|[Path Sum Ii](https://leetcode.com/problems/path-sum-ii/)|[c++](./113_path-sum-ii/solution.cpp)|Medium|
+|144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)|[c++](./144_binary-tree-preorder-traversal/solution.cpp)|Medium|
+|145|[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)|[c++](./145_binary-tree-postorder-traversal/solution.cpp)|Medium|
+|173|[Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/)|[c++](./173_binary-search-tree-iterator/solution.cpp)|Medium|
 |179|[Largest Number](https://leetcode.com/problems/largest-number/)|[c++](./179_largest-number/solution.cpp)|Unknown|
 |199|[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)|[c++](./199_binary-tree-right-side-view/solution.cpp)|Unknown|
 |203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)|[c++](./203_remove-linked-list-elements/solution.cpp)|Unknown|
@@ -31,6 +36,7 @@
 |237|[Delete Node In A Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)|[c++](./237_delete-node-in-a-linked-list/solution.cpp)|Unknown|
 |241|[Different Ways To Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/)|[c++](./241_different-ways-to-add-parentheses/solution.cpp)|Unknown|
 |257|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)|[c++](./257_binary-tree-paths/solution.cpp)|Easy|
+|284|[Peeking Iterator](https://leetcode.com/problems/peeking-iterator/)|[c++](./284_peeking-iterator/solution.cpp)|Medium|
 |328|[Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)|[c++](./328_odd-even-linked-list/solution.cpp)|Unknown|
 |341|[Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/)|[c++](./341_flatten-nested-list-iterator/solution.cpp)|Unknown|
 |344|[Reverse](https://leetcode.com/problems/reverse/)|[c++](./344_reverse_string/solution.cpp)|Unknown|
@@ -38,6 +44,8 @@
 |403|[Frog Jump](https://leetcode.com/problems/frog-jump/)|[c++](./403_frog-jump/solution.cpp)|Unknown|
 |429|[N Ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/)|[c++](./429_n-ary-tree-level-order-traversal/solution.cpp)|Medium|
 |559|[Maximum Depth Of N Ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/)|[c++](./559_maximum-depth-of-n-ary-tree/solution.cpp)|Unknown|
+|589|[N Ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/)|[c++](./589_n-ary-tree-preorder-traversal/solution.cpp)|Easy|
+|590|[N Ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/)|[c++](./590_n-ary-tree-postorder-traversal/solution.cpp)|Easy|
 |637|[Average Of Levels In Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/)|[c++](./637_average-of-levels-in-binary-tree/solution.cpp)|Unknown|
 |654|[Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/)|[c++](./654_maximum-binary-tree/solution.cpp)|Unknown|
 |665|[Non Decreasing Array](https://leetcode.com/problems/non-decreasing-array/)|[c++](./665_non-decreasing-array/solution.cpp)|Unknown|
@@ -46,6 +54,7 @@
 |980|[Unique Paths Iii](https://leetcode.com/problems/unique-paths-iii/)|[c++](./980_unique-paths-iii/solution.cpp)|Unknown|
 |986|[Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/)|[c++](./986_interval-list-intersections/solution.cpp)|Medium|
 |987|[Vertical Order Traversal Of A Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/)|[c++](./987_vertical-order-traversal-of-a-binary-tree/solution.cpp)|Medium|
+|1008|[Construct Binary Search Tree From Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/)|[c++](./1008_construct-binary-search-tree-from-preorder-traversal/solution.cpp)|Medium|
 |1038|[Binary Search Tree To Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/)|[c++](./1038_binary-search-tree-to-greater-sum-tree/solution.cpp)|Unknown|
 |1137|[N Th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)|[c++](./1137_n-th-tribonacci-number/solution.cpp)|Unknown|
 |1200|[Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/)|[c++](./1200_minimum-absolute-difference/solution.cpp)|Unknown|
@@ -55,3 +64,4 @@
 |1464|[Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/)|[c++](./1464_maximum-product-of-two-elements-in-an-array/solution.cpp)|Easy|
 |1470|[Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)|[c++](./1470_shuffle-the-array/solution.cpp)|Easy|
 |1550|[Three Consecutive Odds](https://leetcode.com/problems/three-consecutive-odds/)|[c++](./1550_three-consecutive-odds/solution.cpp)|Easy|
+|1609|[Even Odd Tree](https://leetcode.com/problems/even-odd-tree/)|[c++](./1609_even-odd-tree/solution.cpp)|Medium|
