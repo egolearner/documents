@@ -17,7 +17,7 @@
 |94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[c++](./94_binary-tree-inorder-traversal/solution.cpp)|Medium|
 |95|[Unique Binary Search Trees Ii](https://leetcode.com/problems/unique-binary-search-trees-ii/)|[go](./95_unique-binary-search-trees-ii/solution.go)|Unknown|
 |96|[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/)|[go](./96_unique-binary-search-trees/solution.go)|Medium|
-|98|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)|[go](./98_validate-binary-search-tree/solution.go)|Unknown|
+|98|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)|[go](./98_validate-binary-search-tree/solution.go) [c++](./98_validate-binary-search-tree/solution.cpp)|Medium|
 |102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)|[c++](./102_binary-tree-level-order-traversal/solution.cpp)|Easy|
 |103|[Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)|[c++](./103_binary-tree-zigzag-level-order-traversal/solution.cpp)|Medium|
 |104|[Maximum Depth Of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[go](./104_maximum-depth-of-binary-tree/solution.go)|Unknown|
@@ -51,6 +51,7 @@
 |665|[Non Decreasing Array](https://leetcode.com/problems/non-decreasing-array/)|[c++](./665_non-decreasing-array/solution.cpp)|Unknown|
 |682|[Baseball Game](https://leetcode.com/problems/baseball-game/)|[go](./682_baseball-game/solution.go)|Unknown|
 |880|[Decoded String At Index](https://leetcode.com/problems/decoded-string-at-index/)|[c++](./880_decoded-string-at-index/solution.cpp)|Unknown|
+|938|[Range Sum Of Bst](https://leetcode.com/problems/range-sum-of-bst/)|[c++](./938_range-sum-of-bst/solution.cpp)|Easy|
 |980|[Unique Paths Iii](https://leetcode.com/problems/unique-paths-iii/)|[go](./980_unique-paths-iii/solution.go)|Unknown|
 |986|[Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/)|[c++](./986_interval-list-intersections/solution.cpp)|Medium|
 |987|[Vertical Order Traversal Of A Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/)|[c++](./987_vertical-order-traversal-of-a-binary-tree/solution.cpp)|Medium|
@@ -60,6 +61,7 @@
 |1200|[Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/)|[go](./1200_minimum-absolute-difference/solution.go)|Unknown|
 |1209|[Remove All Adjacent Duplicates In String Ii](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/)|[go](./1209_remove-all-adjacent-duplicates-in-string-ii/solution.go)|Unknown|
 |1302|[Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/)|[go](./1302_deepest-leaves-sum/solution.go)|Unknown|
+|1304|[Find N Unique Integers Sum Up To Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/)|[c++](./1304_find-n-unique-integers-sum-up-to-zero/solution.cpp)|Easy|
 |1431|[Kids With The Greatest Number Of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)|[c++](./1431_kids-with-the-greatest-number-of-candies/solution.cpp)|Unknown|
 |1464|[Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/)|[c++](./1464_maximum-product-of-two-elements-in-an-array/solution.cpp)|Easy|
 |1470|[Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)|[c++](./1470_shuffle-the-array/solution.cpp)|Easy|
