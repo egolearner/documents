@@ -1,4 +1,5 @@
 # leetcode
+## Algorithm
 | # | Title | Solution | Difficulty |
 |---|---|---|---|
 |1|[Two](https://leetcode.com/problems/two/)|[go](./1_two_sums/solution.go)|Unknown|
@@ -32,6 +33,7 @@
 |112|[Path Sum/](https://leetcode.com/problems/path-sum//)|[c++](./112_path-sum//solution.cpp)|Easy|
 |113|[Path Sum Ii](https://leetcode.com/problems/path-sum-ii/)|[c++](./113_path-sum-ii/solution.cpp)|Medium|
 |114|[Flatten Binary Tree To Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)|[c++](./114_flatten-binary-tree-to-linked-list/solution.cpp)|Medium|
+|133|[Clone Graph](https://leetcode.com/problems/clone-graph/)|[c++](./133_clone-graph/solution.cpp)|Medium|
 |144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)|[c++](./144_binary-tree-preorder-traversal/solution.cpp)|Medium|
 |145|[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)|[c++](./145_binary-tree-postorder-traversal/solution.cpp)|Medium|
 |153|[Find Minimum In Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)|[c++](./153_find-minimum-in-rotated-sorted-array/solution.cpp)|Medium|
@@ -50,6 +52,7 @@
 |341|[Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/)|[c++](./341_flatten-nested-list-iterator/solution.cpp)|Unknown|
 |344|[Reverse](https://leetcode.com/problems/reverse/)|[go](./344_reverse_string/solution.go)|Unknown|
 |345|[Reverse Vowels Of A String](https://leetcode.com/problems/reverse-vowels-of-a-string/)|[c++](./345_reverse-vowels-of-a-string/solution.cpp)|Unknown|
+|393|[Utf 8 Validation](https://leetcode.com/problems/utf-8-validation/)|[c++](./393_utf-8-validation/solution.cpp)|Medium|
 |403|[Frog Jump](https://leetcode.com/problems/frog-jump/)|[c++](./403_frog-jump/solution.cpp)|Unknown|
 |404|[Sum Of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)|[c++](./404_sum-of-left-leaves/solution.cpp)|Easy|
 |429|[N Ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/)|[c++](./429_n-ary-tree-level-order-traversal/solution.cpp)|Medium|
@@ -89,3 +92,9 @@
 |1470|[Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)|[c++](./1470_shuffle-the-array/solution.cpp)|Easy|
 |1550|[Three Consecutive Odds](https://leetcode.com/problems/three-consecutive-odds/)|[c++](./1550_three-consecutive-odds/solution.cpp)|Easy|
 |1609|[Even Odd Tree](https://leetcode.com/problems/even-odd-tree/)|[c++](./1609_even-odd-tree/solution.cpp)|Medium|
+
+## Shell
+| # | Title | Solution | Difficulty |
+|---|---|---|---|
+|192|[Word Frequency](https://leetcode.com/problems/word-frequency/)|[bash](./192_word-frequency/solution.sh)|Medium|
+
