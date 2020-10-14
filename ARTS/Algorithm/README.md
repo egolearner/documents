@@ -6,6 +6,7 @@
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|[c++](./2_add-two-numbers/solution.cpp)|Unknown|
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[c++](./7_reverse-integer/solution.cpp)|Unknown|
 |12|[Integer To Roman](https://leetcode.com/problems/integer-to-roman/)|[c++](./12_integer-to-roman/solution.cpp)|Unknown|
+|13|[Roman To Integer](https://leetcode.com/problems/roman-to-integer/)|[c++](./13_roman-to-integer/solution.cpp)|Easy|
 |14|[Longest](https://leetcode.com/problems/longest/)|[go](./14_longest_common_prefix/solution.go)|Unknown|
 |17|[Letter Combinations Of A Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)|[go](./17_letter-combinations-of-a-phone-number/solution.go)|Unknown|
 |17.12|[Binode Lcci](https://leetcode-cn.com/problems/binode-lcci/)|[go](./17.12_binode-lcci/solution.go)|Unknown|
@@ -18,6 +19,7 @@
 |60|[Permutation Sequence](https://leetcode.com/problems/permutation-sequence/)|[go](./60_permutation-sequence/solution.go)|Unknown|
 |62|[Unique Paths](https://leetcode.com/problems/unique-paths/)|[go](./62_unique-paths/solution.go)|Unknown|
 |63|[Unique Paths Ii](https://leetcode.com/problems/unique-paths-ii/)|[go](./63_unique-paths-ii/solution.go)|Unknown|
+|67|[Add Binary](https://leetcode.com/problems/add-binary/)|[c++](./67_add-binary/solution.cpp)|Easy|
 |81|[Search In Rotated Sorted Array Ii](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)|[c++](./81_search-in-rotated-sorted-array-ii/solution.cpp)|Medium|
 |86|[Partition List](https://leetcode.com/problems/partition-list/)|[c++](./86_partition-list/solution.cpp)|Medium|
 |94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[c++](./94_binary-tree-inorder-traversal/solution.cpp)|Medium|
@@ -33,21 +35,27 @@
 |112|[Path Sum/](https://leetcode.com/problems/path-sum//)|[c++](./112_path-sum//solution.cpp)|Easy|
 |113|[Path Sum Ii](https://leetcode.com/problems/path-sum-ii/)|[c++](./113_path-sum-ii/solution.cpp)|Medium|
 |114|[Flatten Binary Tree To Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)|[c++](./114_flatten-binary-tree-to-linked-list/solution.cpp)|Medium|
+|118|[Pascals Triangle](https://leetcode.com/problems/pascals-triangle/)|[c++](./118_pascals-triangle/solution.cpp)|Easy|
+|119|[Pascals Triangle Ii](https://leetcode.com/problems/pascals-triangle-ii/)|[c++](./119_pascals-triangle-ii/solution.cpp)|Easy|
 |133|[Clone Graph](https://leetcode.com/problems/clone-graph/)|[c++](./133_clone-graph/solution.cpp)|Medium|
 |144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)|[c++](./144_binary-tree-preorder-traversal/solution.cpp)|Medium|
 |145|[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)|[c++](./145_binary-tree-postorder-traversal/solution.cpp)|Medium|
 |153|[Find Minimum In Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)|[c++](./153_find-minimum-in-rotated-sorted-array/solution.cpp)|Medium|
 |154|[Find Minimum In Rotated Sorted Array Ii](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/)|[c++](./154_find-minimum-in-rotated-sorted-array-ii/solution.cpp)|Hard|
+|167|[Two Sum Ii Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|[c++](./167_two-sum-ii-input-array-is-sorted/solution.cpp)|Easy|
 |173|[Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/)|[c++](./173_binary-search-tree-iterator/solution.cpp)|Medium|
 |179|[Largest Number](https://leetcode.com/problems/largest-number/)|[c++](./179_largest-number/solution.cpp)|Unknown|
 |199|[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)|[c++](./199_binary-tree-right-side-view/solution.cpp)|Unknown|
 |203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)|[go](./203_remove-linked-list-elements/solution.go)|Unknown|
+|217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[c++](./217_contains-duplicate/solution.cpp)|Easy|
+|231|[Power Of Two](https://leetcode.com/problems/power-of-two/)|[c++](./231_power-of-two/solution.cpp)|Easy|
 |235|[Lowest Common Ancestor Of A Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)|[go](./235_lowest-common-ancestor-of-a-binary-search-tree/solution.go)|Unknown|
 |237|[Delete Node In A Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)|[go](./237_delete-node-in-a-linked-list/solution.go)|Unknown|
 |241|[Different Ways To Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/)|[go](./241_different-ways-to-add-parentheses/solution.go)|Unknown|
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[c++](./242_valid-anagram/solution.cpp)|Easy|
 |257|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)|[c++](./257_binary-tree-paths/solution.cpp)|Easy|
 |284|[Peeking Iterator](https://leetcode.com/problems/peeking-iterator/)|[c++](./284_peeking-iterator/solution.cpp)|Medium|
+|297|[Serialize And Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)|[c++](./297_serialize-and-deserialize-binary-tree/solution.cpp)|Hard|
 |328|[Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)|[go](./328_odd-even-linked-list/solution.go)|Unknown|
 |341|[Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/)|[c++](./341_flatten-nested-list-iterator/solution.cpp)|Unknown|
 |344|[Reverse](https://leetcode.com/problems/reverse/)|[go](./344_reverse_string/solution.go)|Unknown|
@@ -57,6 +65,7 @@
 |404|[Sum Of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)|[c++](./404_sum-of-left-leaves/solution.cpp)|Easy|
 |429|[N Ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/)|[c++](./429_n-ary-tree-level-order-traversal/solution.cpp)|Medium|
 |430|[Flatten A Multilevel Doubly Linked List](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/)|[c++](./430_flatten-a-multilevel-doubly-linked-list/solution.cpp)|Medium|
+|449|[Serialize And Deserialize Bst](https://leetcode.com/problems/serialize-and-deserialize-bst/)|[c++](./449_serialize-and-deserialize-bst/solution.cpp)|Medium|
 |508|[Most Frequent Subtree Sum](https://leetcode.com/problems/most-frequent-subtree-sum/)|[c++](./508_most-frequent-subtree-sum/solution.cpp)|Medium|
 |559|[Maximum Depth Of N Ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/)|[c++](./559_maximum-depth-of-n-ary-tree/solution.cpp)|Easy|
 |543|[Diameter Of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)|[c++](./543_diameter-of-binary-tree/solution.cpp)|Easy|
@@ -97,4 +106,10 @@
 | # | Title | Solution | Difficulty |
 |---|---|---|---|
 |192|[Word Frequency](https://leetcode.com/problems/word-frequency/)|[bash](./192_word-frequency/solution.sh)|Medium|
+|195|[Tenth Line](https://leetcode.com/problems/tenth-line/)|[c++](./195_tenth-line/solution.cpp)|Easy|
+
+## Database
+| # | Title | Solution | Difficulty |
+|---|---|---|---|
+|175|[Combine Two Tables](https://leetcode.com/problems/combine-two-tables/)|[c++](./175_combine-two-tables/solution.cpp)|Easy|
 
