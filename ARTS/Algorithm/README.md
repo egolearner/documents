@@ -29,6 +29,8 @@
 |102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)|[c++](./102_binary-tree-level-order-traversal/solution.cpp)|Easy|
 |103|[Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)|[c++](./103_binary-tree-zigzag-level-order-traversal/solution.cpp)|Medium|
 |104|[Maximum Depth Of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[go](./104_maximum-depth-of-binary-tree/solution.go)|Unknown|
+|105|[Construct Binary Tree From Preorder And Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)|[c++](./105_construct-binary-tree-from-preorder-and-inorder-traversal/solution.cpp)|Medium|
+|106|[Construct Binary Tree From Inorder And Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)|[c++](./106_construct-binary-tree-from-inorder-and-postorder-traversal/solution.cpp)|Medium|
 |107|[Binary Tree Level Order Traversal Ii](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)|[c++](./107_binary-tree-level-order-traversal-ii/solution.cpp)|Easy|
 |108|[Convert Sorted Array To Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)|[go](./108_convert-sorted-array-to-binary-search-tree/solution.go)|Unknown|
 |109|[Convert Sorted List To Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/)|[go](./109_convert-sorted-list-to-binary-search-tree/solution.go)|Unknown|
@@ -37,7 +39,9 @@
 |114|[Flatten Binary Tree To Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)|[c++](./114_flatten-binary-tree-to-linked-list/solution.cpp)|Medium|
 |118|[Pascals Triangle](https://leetcode.com/problems/pascals-triangle/)|[c++](./118_pascals-triangle/solution.cpp)|Easy|
 |119|[Pascals Triangle Ii](https://leetcode.com/problems/pascals-triangle-ii/)|[c++](./119_pascals-triangle-ii/solution.cpp)|Easy|
+|129|[Sum Root To Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)|[c++](./129_sum-root-to-leaf-numbers/solution.cpp)|Medium|
 |133|[Clone Graph](https://leetcode.com/problems/clone-graph/)|[c++](./133_clone-graph/solution.cpp)|Medium|
+|138|[Copy List With Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)|[c++](./138_copy-list-with-random-pointer/solution.cpp)|Medium|
 |144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)|[c++](./144_binary-tree-preorder-traversal/solution.cpp)|Medium|
 |145|[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)|[c++](./145_binary-tree-postorder-traversal/solution.cpp)|Medium|
 |153|[Find Minimum In Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)|[c++](./153_find-minimum-in-rotated-sorted-array/solution.cpp)|Medium|
@@ -65,6 +69,7 @@
 |404|[Sum Of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)|[c++](./404_sum-of-left-leaves/solution.cpp)|Easy|
 |429|[N Ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/)|[c++](./429_n-ary-tree-level-order-traversal/solution.cpp)|Medium|
 |430|[Flatten A Multilevel Doubly Linked List](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/)|[c++](./430_flatten-a-multilevel-doubly-linked-list/solution.cpp)|Medium|
+|445|[Add Two Numbers Ii](https://leetcode.com/problems/add-two-numbers-ii/)|[c++](./445_add-two-numbers-ii/solution.cpp)|Medium|
 |449|[Serialize And Deserialize Bst](https://leetcode.com/problems/serialize-and-deserialize-bst/)|[c++](./449_serialize-and-deserialize-bst/solution.cpp)|Medium|
 |508|[Most Frequent Subtree Sum](https://leetcode.com/problems/most-frequent-subtree-sum/)|[c++](./508_most-frequent-subtree-sum/solution.cpp)|Medium|
 |559|[Maximum Depth Of N Ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/)|[c++](./559_maximum-depth-of-n-ary-tree/solution.cpp)|Easy|
