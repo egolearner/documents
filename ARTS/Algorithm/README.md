@@ -73,6 +73,7 @@
 |397|[Integer Replacement](https://leetcode.com/problems/integer-replacement/)|[c++](./397_integer-replacement/solution.cpp)|Medium|
 |403|[Frog Jump](https://leetcode.com/problems/frog-jump/)|[c++](./403_frog-jump/solution.cpp)|Unknown|
 |404|[Sum Of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)|[c++](./404_sum-of-left-leaves/solution.cpp)|Easy|
+|412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)|[c++](./412_fizz-buzz/solution.cpp)|Easy|
 |429|[N Ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/)|[c++](./429_n-ary-tree-level-order-traversal/solution.cpp)|Medium|
 |430|[Flatten A Multilevel Doubly Linked List](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/)|[c++](./430_flatten-a-multilevel-doubly-linked-list/solution.cpp)|Medium|
 |445|[Add Two Numbers Ii](https://leetcode.com/problems/add-two-numbers-ii/)|[c++](./445_add-two-numbers-ii/solution.cpp)|Medium|
