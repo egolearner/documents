@@ -4,6 +4,8 @@
 |---|---|---|---|
 |1|[Two](https://leetcode.com/problems/two/)|[go](./1_two_sums/solution.go)|Unknown|
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|[c++](./2_add-two-numbers/solution.cpp)|Unknown|
+|3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[c++](./3_longest-substring-without-repeating-characters/solution.cpp)|Medium|
+|5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)|[c++](./5_longest-palindromic-substring/solution.cpp)|Medium|
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[c++](./7_reverse-integer/solution.cpp)|Unknown|
 |12|[Integer To Roman](https://leetcode.com/problems/integer-to-roman/)|[c++](./12_integer-to-roman/solution.cpp)|Unknown|
 |13|[Roman To Integer](https://leetcode.com/problems/roman-to-integer/)|[c++](./13_roman-to-integer/solution.cpp)|Easy|
@@ -23,6 +25,7 @@
 |67|[Add Binary](https://leetcode.com/problems/add-binary/)|[c++](./67_add-binary/solution.cpp)|Easy|
 |81|[Search In Rotated Sorted Array Ii](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)|[c++](./81_search-in-rotated-sorted-array-ii/solution.cpp)|Medium|
 |86|[Partition List](https://leetcode.com/problems/partition-list/)|[c++](./86_partition-list/solution.cpp)|Medium|
+|92|[Reverse Linked List Ii](https://leetcode.com/problems/reverse-linked-list-ii/)|[c++](./92_reverse-linked-list-ii/solution.cpp)|Medium|
 |94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[c++](./94_binary-tree-inorder-traversal/solution.cpp)|Medium|
 |95|[Unique Binary Search Trees Ii](https://leetcode.com/problems/unique-binary-search-trees-ii/)|[go](./95_unique-binary-search-trees-ii/solution.go)|Unknown|
 |96|[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/)|[go](./96_unique-binary-search-trees/solution.go)|Medium|
@@ -77,6 +80,7 @@
 |412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)|[c++](./412_fizz-buzz/solution.cpp)|Easy|
 |429|[N Ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/)|[c++](./429_n-ary-tree-level-order-traversal/solution.cpp)|Medium|
 |430|[Flatten A Multilevel Doubly Linked List](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/)|[c++](./430_flatten-a-multilevel-doubly-linked-list/solution.cpp)|Medium|
+|434|[Number Of Segments In A String](https://leetcode.com/problems/number-of-segments-in-a-string/)|[c++](./434_number-of-segments-in-a-string/solution.cpp)|Easy|
 |445|[Add Two Numbers Ii](https://leetcode.com/problems/add-two-numbers-ii/)|[c++](./445_add-two-numbers-ii/solution.cpp)|Medium|
 |449|[Serialize And Deserialize Bst](https://leetcode.com/problems/serialize-and-deserialize-bst/)|[c++](./449_serialize-and-deserialize-bst/solution.cpp)|Medium|
 |508|[Most Frequent Subtree Sum](https://leetcode.com/problems/most-frequent-subtree-sum/)|[c++](./508_most-frequent-subtree-sum/solution.cpp)|Medium|
