@@ -15,7 +15,9 @@
 |19|[Remove Nth Node From End Of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[go](./19_remove-nth-node-from-end-of-list/solution.go)|Unknown|
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[c++](./20_valid-parentheses/solution.cpp)|Easy|
 |23|[Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)|[c++](./23_merge-k-sorted-lists/solution.cpp)|Hard|
+|25|[Reverse Nodes In K Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)|[c++](./25_reverse-nodes-in-k-group/solution.cpp)|Hard|
 |33|[Search In Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|[c++](./33_search-in-rotated-sorted-array/solution.cpp)|Medium|
+|34|[Find First And Last Position Of Element In Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|[c++](./34_find-first-and-last-position-of-element-in-sorted-array/solution.cpp)|Medium|
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[go](./53_maximum-subarray/solution.go)|Unknown|
 |56|[Merge Intervals](https://leetcode.com/problems/merge-intervals/)|[c++](./56_merge-intervals/solution.cpp)|Medium|
 |57|[Insert Interval](https://leetcode.com/problems/insert-interval/)|[c++](./57_insert-interval/solution.cpp)|Medium|
@@ -61,13 +63,13 @@
 |228|[Summary Ranges](https://leetcode.com/problems/summary-ranges/)|[c++](./228_summary-ranges/solution.cpp)|Medium|
 |231|[Power Of Two](https://leetcode.com/problems/power-of-two/)|[c++](./231_power-of-two/solution.cpp)|Easy|
 |235|[Lowest Common Ancestor Of A Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)|[go](./235_lowest-common-ancestor-of-a-binary-search-tree/solution.go)|Unknown|
-|237|[Delete Node In A Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)|[go](./237_delete-node-in-a-linked-list/solution.go)|Unknown|
+|237|[Delete Node In A Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)|[go](./237_delete-node-in-a-linked-list/solution.go) [c++](./237_delete-node-in-a-linked-list/solution.cpp)|Easy|
 |241|[Different Ways To Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/)|[go](./241_different-ways-to-add-parentheses/solution.go)|Unknown|
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[c++](./242_valid-anagram/solution.cpp)|Easy|
 |257|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)|[c++](./257_binary-tree-paths/solution.cpp)|Easy|
 |284|[Peeking Iterator](https://leetcode.com/problems/peeking-iterator/)|[c++](./284_peeking-iterator/solution.cpp)|Medium|
 |297|[Serialize And Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)|[c++](./297_serialize-and-deserialize-binary-tree/solution.cpp)|Hard|
-|328|[Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)|[go](./328_odd-even-linked-list/solution.go)|Unknown|
+|328|[Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)|[go](./328_odd-even-linked-list/solution.go) [c++](./328_odd-even-linked-list/solution.cpp)|Medium|
 |341|[Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/)|[c++](./341_flatten-nested-list-iterator/solution.cpp)|Unknown|
 |344|[Reverse](https://leetcode.com/problems/reverse/)|[go](./344_reverse_string/solution.go)|Unknown|
 |345|[Reverse Vowels Of A String](https://leetcode.com/problems/reverse-vowels-of-a-string/)|[c++](./345_reverse-vowels-of-a-string/solution.cpp)|Unknown|

@@ -76,6 +76,27 @@ public:
         }
         return dummy.next;
     }
+
+    ListNode* reverseBetweenRefined(ListNode* head, int m, int n) {
+        ListNode dummy;
+        dummy.next = head;
+        ListNode* cur = &dummy;
+        for (int i = 1; i < m; i++) {
+            cur = cur->next;
+        }
+        ListNode* tail = cur->next;
+        auto nn = tail->next;
+        auto pre = tail;
+        for (int i = m; i < n; i++) {
+            auto next = nn->next;
+            nn->next = pre;
+            pre = nn;
+            nn = next;
+        }
+        cur->next = pre;
+        tail->next = nn;
+        return dummy.next;
+    }
 };
 // @lc code=end
 
@@ -91,6 +112,8 @@ public:
 
         for(int i=1; i<m; i++) start = start->next;
 
+        // lock永远指向第i个元素
+        // start指向第m-1个元素
         lock = start->next;
         for(int i=m; i<n; i++) {
             tmp = lock->next;
