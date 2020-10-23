@@ -50,6 +50,7 @@
 |138|[Copy List With Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)|[c++](./138_copy-list-with-random-pointer/solution.cpp)|Medium|
 |144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)|[c++](./144_binary-tree-preorder-traversal/solution.cpp)|Medium|
 |145|[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)|[c++](./145_binary-tree-postorder-traversal/solution.cpp)|Medium|
+|147|[Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)|[c++](./147_insertion-sort-list/solution.cpp)|Medium|
 |153|[Find Minimum In Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)|[c++](./153_find-minimum-in-rotated-sorted-array/solution.cpp)|Medium|
 |154|[Find Minimum In Rotated Sorted Array Ii](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/)|[c++](./154_find-minimum-in-rotated-sorted-array-ii/solution.cpp)|Hard|
 |167|[Two Sum Ii Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|[c++](./167_two-sum-ii-input-array-is-sorted/solution.cpp)|Easy|
@@ -62,6 +63,7 @@
 |224|[Basic Calculator](https://leetcode.com/problems/basic-calculator/)|[c++](./224_basic-calculator/solution.cpp)|Hard|
 |228|[Summary Ranges](https://leetcode.com/problems/summary-ranges/)|[c++](./228_summary-ranges/solution.cpp)|Medium|
 |231|[Power Of Two](https://leetcode.com/problems/power-of-two/)|[c++](./231_power-of-two/solution.cpp)|Easy|
+|234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)|[c++](./234_palindrome-linked-list/solution.cpp)|Easy|
 |235|[Lowest Common Ancestor Of A Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)|[go](./235_lowest-common-ancestor-of-a-binary-search-tree/solution.go)|Unknown|
 |237|[Delete Node In A Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)|[go](./237_delete-node-in-a-linked-list/solution.go) [c++](./237_delete-node-in-a-linked-list/solution.cpp)|Easy|
 |241|[Different Ways To Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/)|[go](./241_different-ways-to-add-parentheses/solution.go)|Unknown|
@@ -130,10 +132,12 @@
 | # | Title | Solution | Difficulty |
 |---|---|---|---|
 |192|[Word Frequency](https://leetcode.com/problems/word-frequency/)|[bash](./192_word-frequency/solution.sh)|Medium|
-|195|[Tenth Line](https://leetcode.com/problems/tenth-line/)|[bash](./195_tenth-line/solution.cpp)|Easy|
+|193|[Valid Phone Numbers](https://leetcode.com/problems/valid-phone-numbers/)|[bash](./193_valid-phone-numbers/solution.sh)|Easy|
+|194|[Transpose File](https://leetcode.com/problems/transpose-file/)|[bash](./194_transpose-file/solution.sh)|Medium|
+|195|[Tenth Line](https://leetcode.com/problems/tenth-line/)|[bash](./195_tenth-line/solution.sh)|Easy|
 
 ## Database
 | # | Title | Solution | Difficulty |
 |---|---|---|---|
-|175|[Combine Two Tables](https://leetcode.com/problems/combine-two-tables/)|[sql](./175_combine-two-tables/solution.cpp)|Easy|
+|175|[Combine Two Tables](https://leetcode.com/problems/combine-two-tables/)|[sql](./175_combine-two-tables/solution.sql)|Easy|
 
