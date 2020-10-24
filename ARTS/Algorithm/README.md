@@ -6,6 +6,7 @@
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|[c++](./2_add-two-numbers/solution.cpp)|Unknown|
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[c++](./3_longest-substring-without-repeating-characters/solution.cpp)|Medium|
 |5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)|[c++](./5_longest-palindromic-substring/solution.cpp)|Medium|
+|6|[Zig Zag Conversion](https://leetcode.com/problems/zig-zag-conversion/)|[c++](./6_zig-zag-conversion/solution.cpp)|Medium|
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[c++](./7_reverse-integer/solution.cpp)|Unknown|
 |12|[Integer To Roman](https://leetcode.com/problems/integer-to-roman/)|[c++](./12_integer-to-roman/solution.cpp)|Unknown|
 |13|[Roman To Integer](https://leetcode.com/problems/roman-to-integer/)|[c++](./13_roman-to-integer/solution.cpp)|Easy|
@@ -25,6 +26,7 @@
 |62|[Unique Paths](https://leetcode.com/problems/unique-paths/)|[go](./62_unique-paths/solution.go)|Medium|
 |63|[Unique Paths Ii](https://leetcode.com/problems/unique-paths-ii/)|[go](./63_unique-paths-ii/solution.go)|Medium|
 |67|[Add Binary](https://leetcode.com/problems/add-binary/)|[c++](./67_add-binary/solution.cpp)|Easy|
+|80|[Remove Duplicates From Sorted Array Ii](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)|[c++](./80_remove-duplicates-from-sorted-array-ii/solution.cpp)|Medium|
 |81|[Search In Rotated Sorted Array Ii](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)|[c++](./81_search-in-rotated-sorted-array-ii/solution.cpp)|Medium|
 |86|[Partition List](https://leetcode.com/problems/partition-list/)|[c++](./86_partition-list/solution.cpp)|Medium|
 |92|[Reverse Linked List Ii](https://leetcode.com/problems/reverse-linked-list-ii/)|[c++](./92_reverse-linked-list-ii/solution.cpp)|Medium|
@@ -32,6 +34,7 @@
 |95|[Unique Binary Search Trees Ii](https://leetcode.com/problems/unique-binary-search-trees-ii/)|[go](./95_unique-binary-search-trees-ii/solution.go)|Unknown|
 |96|[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/)|[go](./96_unique-binary-search-trees/solution.go)|Medium|
 |98|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)|[go](./98_validate-binary-search-tree/solution.go) [c++](./98_validate-binary-search-tree/solution.cpp)|Medium|
+|101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)|[c++](./101_symmetric-tree/solution.cpp)|Easy|
 |102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)|[c++](./102_binary-tree-level-order-traversal/solution.cpp)|Easy|
 |103|[Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)|[c++](./103_binary-tree-zigzag-level-order-traversal/solution.cpp)|Medium|
 |104|[Maximum Depth Of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[go](./104_maximum-depth-of-binary-tree/solution.go)|Unknown|
@@ -56,6 +59,8 @@
 |167|[Two Sum Ii Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|[c++](./167_two-sum-ii-input-array-is-sorted/solution.cpp)|Easy|
 |173|[Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/)|[c++](./173_binary-search-tree-iterator/solution.cpp)|Medium|
 |179|[Largest Number](https://leetcode.com/problems/largest-number/)|[c++](./179_largest-number/solution.cpp)|Unknown|
+|189|[Rotate Array](https://leetcode.com/problems/rotate-array/)|[c++](./189_rotate-array/solution.cpp)|Medium|
+|198|[House Robber](https://leetcode.com/problems/house-robber/)|[c++](./198_house-robber/solution.cpp)|Easy|
 |199|[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)|[c++](./199_binary-tree-right-side-view/solution.cpp)|Unknown|
 |203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)|[go](./203_remove-linked-list-elements/solution.go)|Unknown|
 |215|[Kth Largest Element In An Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)|[c++](./215_kth-largest-element-in-an-array/solution.cpp)|Medium|
