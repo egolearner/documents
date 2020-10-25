@@ -48,6 +48,8 @@
 |114|[Flatten Binary Tree To Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)|[c++](./114_flatten-binary-tree-to-linked-list/solution.cpp)|Medium|
 |118|[Pascals Triangle](https://leetcode.com/problems/pascals-triangle/)|[c++](./118_pascals-triangle/solution.cpp)|Easy|
 |119|[Pascals Triangle Ii](https://leetcode.com/problems/pascals-triangle-ii/)|[c++](./119_pascals-triangle-ii/solution.cpp)|Easy|
+|121|[Best Time To Buy And Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[c++](./121_best-time-to-buy-and-sell-stock/solution.cpp)|Easy|
+|122|[Best Time To Buy And Sell Stock Ii](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|[c++](./122_best-time-to-buy-and-sell-stock-ii/solution.cpp)|Easy|
 |129|[Sum Root To Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)|[c++](./129_sum-root-to-leaf-numbers/solution.cpp)|Medium|
 |133|[Clone Graph](https://leetcode.com/problems/clone-graph/)|[c++](./133_clone-graph/solution.cpp)|Medium|
 |138|[Copy List With Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)|[c++](./138_copy-list-with-random-pointer/solution.cpp)|Medium|
