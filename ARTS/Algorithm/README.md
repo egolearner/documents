@@ -19,6 +19,7 @@
 |25|[Reverse Nodes In K Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)|[c++](./25_reverse-nodes-in-k-group/solution.cpp)|Hard|
 |33|[Search In Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|[c++](./33_search-in-rotated-sorted-array/solution.cpp)|Medium|
 |34|[Find First And Last Position Of Element In Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|[c++](./34_find-first-and-last-position-of-element-in-sorted-array/solution.cpp)|Medium|
+|38|[Count And Say](https://leetcode.com/problems/count-and-say/)|[c++](./38_count-and-say/solution.cpp)|Easy|
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[go](./53_maximum-subarray/solution.go)|Unknown|
 |56|[Merge Intervals](https://leetcode.com/problems/merge-intervals/)|[c++](./56_merge-intervals/solution.cpp)|Medium|
 |57|[Insert Interval](https://leetcode.com/problems/insert-interval/)|[c++](./57_insert-interval/solution.cpp)|Medium|
