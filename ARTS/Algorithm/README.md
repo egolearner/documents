@@ -17,6 +17,7 @@
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[c++](./20_valid-parentheses/solution.cpp)|Easy|
 |23|[Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)|[c++](./23_merge-k-sorted-lists/solution.cpp)|Hard|
 |25|[Reverse Nodes In K Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)|[c++](./25_reverse-nodes-in-k-group/solution.cpp)|Hard|
+|31|[Next Permutation](https://leetcode.com/problems/next-permutation/)|[c++](./31_next-permutation/solution.cpp)|Medium|
 |33|[Search In Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|[c++](./33_search-in-rotated-sorted-array/solution.cpp)|Medium|
 |34|[Find First And Last Position Of Element In Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|[c++](./34_find-first-and-last-position-of-element-in-sorted-array/solution.cpp)|Medium|
 |38|[Count And Say](https://leetcode.com/problems/count-and-say/)|[c++](./38_count-and-say/solution.cpp)|Easy|
@@ -27,6 +28,7 @@
 |62|[Unique Paths](https://leetcode.com/problems/unique-paths/)|[go](./62_unique-paths/solution.go)|Medium|
 |63|[Unique Paths Ii](https://leetcode.com/problems/unique-paths-ii/)|[go](./63_unique-paths-ii/solution.go)|Medium|
 |67|[Add Binary](https://leetcode.com/problems/add-binary/)|[c++](./67_add-binary/solution.cpp)|Easy|
+|71|[Simplify Path](https://leetcode.com/problems/simplify-path/)|[c++](./71_simplify-path/solution.cpp)|Medium|
 |80|[Remove Duplicates From Sorted Array Ii](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)|[c++](./80_remove-duplicates-from-sorted-array-ii/solution.cpp)|Medium|
 |81|[Search In Rotated Sorted Array Ii](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)|[c++](./81_search-in-rotated-sorted-array-ii/solution.cpp)|Medium|
 |86|[Partition List](https://leetcode.com/problems/partition-list/)|[c++](./86_partition-list/solution.cpp)|Medium|
