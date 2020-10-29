@@ -29,12 +29,14 @@
 |63|[Unique Paths Ii](https://leetcode.com/problems/unique-paths-ii/)|[go](./63_unique-paths-ii/solution.go)|Medium|
 |67|[Add Binary](https://leetcode.com/problems/add-binary/)|[c++](./67_add-binary/solution.cpp)|Easy|
 |71|[Simplify Path](https://leetcode.com/problems/simplify-path/)|[c++](./71_simplify-path/solution.cpp)|Medium|
+|74|[Search A 2 D Matrix](https://leetcode.com/problems/search-a-2-d-matrix/)|[c++](./74_search-a-2-d-matrix/solution.cpp)|Medium|
+|79|[Word Search](https://leetcode.com/problems/word-search/)|[c++](./79_word-search/solution.cpp)|Medium|
 |80|[Remove Duplicates From Sorted Array Ii](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)|[c++](./80_remove-duplicates-from-sorted-array-ii/solution.cpp)|Medium|
 |81|[Search In Rotated Sorted Array Ii](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)|[c++](./81_search-in-rotated-sorted-array-ii/solution.cpp)|Medium|
 |86|[Partition List](https://leetcode.com/problems/partition-list/)|[c++](./86_partition-list/solution.cpp)|Medium|
 |92|[Reverse Linked List Ii](https://leetcode.com/problems/reverse-linked-list-ii/)|[c++](./92_reverse-linked-list-ii/solution.cpp)|Medium|
 |94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[c++](./94_binary-tree-inorder-traversal/solution.cpp)|Medium|
-|95|[Unique Binary Search Trees Ii](https://leetcode.com/problems/unique-binary-search-trees-ii/)|[go](./95_unique-binary-search-trees-ii/solution.go)|Unknown|
+|95|[Unique Binary Search Trees Ii](https://leetcode.com/problems/unique-binary-search-trees-ii/)|[go](./95_unique-binary-search-trees-ii/solution.go)|Medium|
 |96|[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/)|[go](./96_unique-binary-search-trees/solution.go)|Medium|
 |98|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)|[go](./98_validate-binary-search-tree/solution.go) [c++](./98_validate-binary-search-tree/solution.cpp)|Medium|
 |101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)|[c++](./101_symmetric-tree/solution.cpp)|Easy|
@@ -78,6 +80,7 @@
 |234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)|[c++](./234_palindrome-linked-list/solution.cpp)|Easy|
 |235|[Lowest Common Ancestor Of A Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)|[go](./235_lowest-common-ancestor-of-a-binary-search-tree/solution.go)|Unknown|
 |237|[Delete Node In A Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)|[go](./237_delete-node-in-a-linked-list/solution.go) [c++](./237_delete-node-in-a-linked-list/solution.cpp)|Easy|
+|240|[Search A 2 D Matrix Ii](https://leetcode.com/problems/search-a-2-d-matrix-ii/)|[c++](./240_search-a-2-d-matrix-ii/solution.cpp)|Medium|
 |241|[Different Ways To Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/)|[go](./241_different-ways-to-add-parentheses/solution.go)|Unknown|
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[c++](./242_valid-anagram/solution.cpp)|Easy|
 |257|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)|[c++](./257_binary-tree-paths/solution.cpp)|Easy|
