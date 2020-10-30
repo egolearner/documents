@@ -18,12 +18,16 @@
 |23|[Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)|[c++](./23_merge-k-sorted-lists/solution.cpp)|Hard|
 |25|[Reverse Nodes In K Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)|[c++](./25_reverse-nodes-in-k-group/solution.cpp)|Hard|
 |31|[Next Permutation](https://leetcode.com/problems/next-permutation/)|[c++](./31_next-permutation/solution.cpp)|Medium|
+|32|[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)|[c++](./32_longest-valid-parentheses/solution.cpp)|Hard|
 |33|[Search In Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|[c++](./33_search-in-rotated-sorted-array/solution.cpp)|Medium|
 |34|[Find First And Last Position Of Element In Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|[c++](./34_find-first-and-last-position-of-element-in-sorted-array/solution.cpp)|Medium|
+|36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|[c++](./36_valid-sudoku/solution.cpp)|Medium|
 |38|[Count And Say](https://leetcode.com/problems/count-and-say/)|[c++](./38_count-and-say/solution.cpp)|Easy|
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[go](./53_maximum-subarray/solution.go)|Unknown|
+|54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)|[c++](./54_spiral-matrix/solution.cpp)|Medium|
 |56|[Merge Intervals](https://leetcode.com/problems/merge-intervals/)|[c++](./56_merge-intervals/solution.cpp)|Medium|
 |57|[Insert Interval](https://leetcode.com/problems/insert-interval/)|[c++](./57_insert-interval/solution.cpp)|Medium|
+|59|[Spiral Matrix Ii](https://leetcode.com/problems/spiral-matrix-ii/)|[c++](./59_spiral-matrix-ii/solution.cpp)|Medium|
 |60|[Permutation Sequence](https://leetcode.com/problems/permutation-sequence/)|[go](./60_permutation-sequence/solution.go) [c++](./62_unique-paths/solution.cpp)|Unknown|
 |62|[Unique Paths](https://leetcode.com/problems/unique-paths/)|[go](./62_unique-paths/solution.go)|Medium|
 |63|[Unique Paths Ii](https://leetcode.com/problems/unique-paths-ii/)|[go](./63_unique-paths-ii/solution.go)|Medium|
