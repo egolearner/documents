@@ -144,6 +144,7 @@
 |1431|[Kids With The Greatest Number Of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)|[c++](./1431_kids-with-the-greatest-number-of-candies/solution.cpp)|Unknown|
 |1464|[Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/)|[c++](./1464_maximum-product-of-two-elements-in-an-array/solution.cpp)|Easy|
 |1470|[Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)|[c++](./1470_shuffle-the-array/solution.cpp)|Easy|
+|1523|[Count Odd Numbers In An Interval Range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/)|[c++](./1523_count-odd-numbers-in-an-interval-range/solution.cpp)|Easy|
 |1550|[Three Consecutive Odds](https://leetcode.com/problems/three-consecutive-odds/)|[c++](./1550_three-consecutive-odds/solution.cpp)|Easy|
 |1609|[Even Odd Tree](https://leetcode.com/problems/even-odd-tree/)|[c++](./1609_even-odd-tree/solution.cpp)|Medium|
 
