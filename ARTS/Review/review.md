@@ -407,3 +407,7 @@ python默认会将当前目录和脚本所在目录加入sys.path中，所以下
 
 ### 评论
 收获不太大，主要是知道了技能是如何实现的。
+
+## [Memory inside Linux containers](https://fabiokung.com/2014/03/13/memory-inside-linux-containers/)
+### 主要内容
+free/top/psutil等都是基于/proc/meminfo、/proc/vmstat的数据，这些容器并不感知cgroup，容器中读到的文件和物理机中读到的文件相同，因此free/top/psutil在容器中的结果不准。
