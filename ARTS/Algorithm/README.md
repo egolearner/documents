@@ -120,7 +120,10 @@
 |669|[Trim A Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/)|[c++](./669_trim-a-binary-search-tree/solution.cpp)|Easy|
 |682|[Baseball Game](https://leetcode.com/problems/baseball-game/)|[go](./682_baseball-game/solution.go)|Unknown|
 |693|[Binary Number With Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits/)|[c++](./693_binary-number-with-alternating-bits/solution.cpp)|Easy|
+|701|[Insert Into A Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/)|[c++](./701_insert-into-a-binary-search-tree/solution.cpp)|Medium|
+|725|[Split Linked List In Parts](https://leetcode.com/problems/split-linked-list-in-parts/)|[c++](./725_split-linked-list-in-parts/solution.cpp)|Medium|
 |783|[Minimum Distance Between Bst Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/)|[c++](./783_minimum-distance-between-bst-nodes/solution.cpp)|Easy|
+|814|[Binary Tree Pruning](https://leetcode.com/problems/binary-tree-pruning/)|[c++](./814_binary-tree-pruning/solution.cpp)|Medium|
 |817|[Linked List Components](https://leetcode.com/problems/linked-list-components/)|[c++](./817_linked-list-components/solution.cpp)|Medium|
 |880|[Decoded String At Index](https://leetcode.com/problems/decoded-string-at-index/)|[c++](./880_decoded-string-at-index/solution.cpp)|Unknown|
 |897|[Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree/)|[c++](./897_increasing-order-search-tree/solution.cpp)|Easy|
