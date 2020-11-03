@@ -65,6 +65,7 @@
 |144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)|[c++](./144_binary-tree-preorder-traversal/solution.cpp)|Medium|
 |145|[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)|[c++](./145_binary-tree-postorder-traversal/solution.cpp)|Medium|
 |147|[Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)|[c++](./147_insertion-sort-list/solution.cpp)|Medium|
+|150|[Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)|[c++](./150_evaluate-reverse-polish-notation/solution.cpp)|Medium|
 |151|[Reverse Words In A String](https://leetcode.com/problems/reverse-words-in-a-string/)|[c++](./151_reverse-words-in-a-string/solution.cpp)|Medium|
 |153|[Find Minimum In Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)|[c++](./153_find-minimum-in-rotated-sorted-array/solution.cpp)|Medium|
 |154|[Find Minimum In Rotated Sorted Array Ii](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/)|[c++](./154_find-minimum-in-rotated-sorted-array-ii/solution.cpp)|Hard|
