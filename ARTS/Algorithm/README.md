@@ -7,8 +7,9 @@
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[c++](./3_longest-substring-without-repeating-characters/solution.cpp)|Medium|
 |5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)|[c++](./5_longest-palindromic-substring/solution.cpp)|Medium|
 |6|[Zig Zag Conversion](https://leetcode.com/problems/zig-zag-conversion/)|[c++](./6_zig-zag-conversion/solution.cpp)|Medium|
-|7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[c++](./7_reverse-integer/solution.cpp)|Unknown|
-|12|[Integer To Roman](https://leetcode.com/problems/integer-to-roman/)|[c++](./12_integer-to-roman/solution.cpp)|Unknown|
+|7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[c++](./7_reverse-integer/solution.cpp)|Easy|
+|9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)|[c++](./9_palindrome-number/solution.cpp)|Easy|
+|12|[Integer To Roman](https://leetcode.com/problems/integer-to-roman/)|[c++](./12_integer-to-roman/solution.cpp)|Easy|
 |13|[Roman To Integer](https://leetcode.com/problems/roman-to-integer/)|[c++](./13_roman-to-integer/solution.cpp)|Easy|
 |14|[Longest](https://leetcode.com/problems/longest/)|[go](./14_longest_common_prefix/solution.go)|Unknown|
 |17|[Letter Combinations Of A Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)|[go](./17_letter-combinations-of-a-phone-number/solution.go) [c++](./17_letter-combinations-of-a-phone-number/solution.cpp)|Medium|
@@ -56,8 +57,10 @@
 |113|[Path Sum Ii](https://leetcode.com/problems/path-sum-ii/)|[c++](./113_path-sum-ii/solution.cpp)|Medium|
 |114|[Flatten Binary Tree To Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)|[c++](./114_flatten-binary-tree-to-linked-list/solution.cpp)|Medium|
 |116|[Populating Next Right Pointers In Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)|[c++](./116_populating-next-right-pointers-in-each-node/solution.cpp)|Medium|
+|117|[Populating Next Right Pointers In Each Node Ii](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/)|[c++](./117_populating-next-right-pointers-in-each-node-ii/solution.cpp)|Medium|
 |118|[Pascals Triangle](https://leetcode.com/problems/pascals-triangle/)|[c++](./118_pascals-triangle/solution.cpp)|Easy|
 |119|[Pascals Triangle Ii](https://leetcode.com/problems/pascals-triangle-ii/)|[c++](./119_pascals-triangle-ii/solution.cpp)|Easy|
+|120|[Triangle](https://leetcode.com/problems/triangle/)|[c++](./120_triangle/solution.cpp)|Medium|
 |121|[Best Time To Buy And Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[c++](./121_best-time-to-buy-and-sell-stock/solution.cpp)|Easy|
 |122|[Best Time To Buy And Sell Stock Ii](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|[c++](./122_best-time-to-buy-and-sell-stock-ii/solution.cpp)|Easy|
 |129|[Sum Root To Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)|[c++](./129_sum-root-to-leaf-numbers/solution.cpp)|Medium|

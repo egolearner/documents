@@ -104,3 +104,33 @@ public:
 };
 // @lc code=end
 
+/* XXX 非递归，真O(1)。利用next将下一层的连起来然后层序遍历
+public Node connect(Node root) {
+        if (root == null) {
+            return root;
+        }
+
+        Node curr = root;
+        // levelNode points to the first node in any level
+        Node levelNode = root;
+
+        while (levelNode != null) {
+            curr = levelNode;
+            // traverse all elements on this level
+            while (curr != null) {
+                if (curr.left != null) {
+                    curr.left.next = curr.right;
+                }
+
+                if (curr.right != null && curr.next != null) {
+                    curr.right.next = curr.next.left;
+                }
+                curr = curr.next;
+            }
+            // goto next level
+            levelNode = levelNode.left;
+        }
+        return root;
+    }
+*/
+
