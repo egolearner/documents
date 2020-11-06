@@ -68,6 +68,7 @@
 |138|[Copy List With Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)|[c++](./138_copy-list-with-random-pointer/solution.cpp)|Medium|
 |144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)|[c++](./144_binary-tree-preorder-traversal/solution.cpp)|Medium|
 |145|[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)|[c++](./145_binary-tree-postorder-traversal/solution.cpp)|Medium|
+|146|[Lru Cache](https://leetcode.com/problems/lru-cache/)|[c++](./146_lru-cache/solution.cpp)|Medium|
 |147|[Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)|[c++](./147_insertion-sort-list/solution.cpp)|Medium|
 |150|[Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)|[c++](./150_evaluate-reverse-polish-notation/solution.cpp)|Medium|
 |151|[Reverse Words In A String](https://leetcode.com/problems/reverse-words-in-a-string/)|[c++](./151_reverse-words-in-a-string/solution.cpp)|Medium|
