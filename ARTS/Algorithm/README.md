@@ -65,6 +65,7 @@
 |122|[Best Time To Buy And Sell Stock Ii](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|[c++](./122_best-time-to-buy-and-sell-stock-ii/solution.cpp)|Easy|
 |129|[Sum Root To Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)|[c++](./129_sum-root-to-leaf-numbers/solution.cpp)|Medium|
 |133|[Clone Graph](https://leetcode.com/problems/clone-graph/)|[c++](./133_clone-graph/solution.cpp)|Medium|
+|136|[Single Number](https://leetcode.com/problems/single-number/)|[c++](./136_single-number/solution.cpp)|Easy|
 |138|[Copy List With Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)|[c++](./138_copy-list-with-random-pointer/solution.cpp)|Medium|
 |144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)|[c++](./144_binary-tree-preorder-traversal/solution.cpp)|Medium|
 |145|[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)|[c++](./145_binary-tree-postorder-traversal/solution.cpp)|Medium|
@@ -94,6 +95,7 @@
 |241|[Different Ways To Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/)|[go](./241_different-ways-to-add-parentheses/solution.go)|Unknown|
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[c++](./242_valid-anagram/solution.cpp)|Easy|
 |257|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)|[c++](./257_binary-tree-paths/solution.cpp)|Easy|
+|260|[Single Number Iii](https://leetcode.com/problems/single-number-iii/)|[c++](./260_single-number-iii/solution.cpp)|Medium|
 |284|[Peeking Iterator](https://leetcode.com/problems/peeking-iterator/)|[c++](./284_peeking-iterator/solution.cpp)|Medium|
 |297|[Serialize And Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)|[c++](./297_serialize-and-deserialize-binary-tree/solution.cpp)|Hard|
 |328|[Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)|[go](./328_odd-even-linked-list/solution.go) [c++](./328_odd-even-linked-list/solution.cpp)|Medium|
@@ -113,6 +115,7 @@
 |445|[Add Two Numbers Ii](https://leetcode.com/problems/add-two-numbers-ii/)|[c++](./445_add-two-numbers-ii/solution.cpp)|Medium|
 |449|[Serialize And Deserialize Bst](https://leetcode.com/problems/serialize-and-deserialize-bst/)|[c++](./449_serialize-and-deserialize-bst/solution.cpp)|Medium|
 |508|[Most Frequent Subtree Sum](https://leetcode.com/problems/most-frequent-subtree-sum/)|[c++](./508_most-frequent-subtree-sum/solution.cpp)|Medium|
+|540|[Single Element In A Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/)|[c++](./540_single-element-in-a-sorted-array/solution.cpp)|Medium|
 |559|[Maximum Depth Of N Ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/)|[c++](./559_maximum-depth-of-n-ary-tree/solution.cpp)|Easy|
 |543|[Diameter Of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)|[c++](./543_diameter-of-binary-tree/solution.cpp)|Easy|
 |572|[Subtree Of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)|[c++](./572_subtree-of-another-tree/solution.cpp)|Easy|
