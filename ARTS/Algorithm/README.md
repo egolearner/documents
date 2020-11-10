@@ -129,7 +129,9 @@
 |669|[Trim A Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/)|[c++](./669_trim-a-binary-search-tree/solution.cpp)|Easy|
 |682|[Baseball Game](https://leetcode.com/problems/baseball-game/)|[go](./682_baseball-game/solution.go)|Unknown|
 |693|[Binary Number With Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits/)|[c++](./693_binary-number-with-alternating-bits/solution.cpp)|Easy|
+|700|[Search In A Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)|[c++](./700_search-in-a-binary-search-tree/solution.cpp)|Easy|
 |701|[Insert Into A Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/)|[c++](./701_insert-into-a-binary-search-tree/solution.cpp)|Medium|
+|709|[To Lower Case](https://leetcode.com/problems/to-lower-case/)|[c++](./709_to-lower-case/solution.cpp)|Easy|
 |725|[Split Linked List In Parts](https://leetcode.com/problems/split-linked-list-in-parts/)|[c++](./725_split-linked-list-in-parts/solution.cpp)|Medium|
 |783|[Minimum Distance Between Bst Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/)|[c++](./783_minimum-distance-between-bst-nodes/solution.cpp)|Easy|
 |814|[Binary Tree Pruning](https://leetcode.com/problems/binary-tree-pruning/)|[c++](./814_binary-tree-pruning/solution.cpp)|Medium|
