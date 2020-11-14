@@ -83,6 +83,7 @@
 |198|[House Robber](https://leetcode.com/problems/house-robber/)|[c++](./198_house-robber/solution.cpp)|Easy|
 |199|[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)|[c++](./199_binary-tree-right-side-view/solution.cpp)|Unknown|
 |203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)|[go](./203_remove-linked-list-elements/solution.go)|Unknown|
+|205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)|[c++](./205_isomorphic-strings/solution.cpp)|Easy|
 |215|[Kth Largest Element In An Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)|[c++](./215_kth-largest-element-in-an-array/solution.cpp)|Medium|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[c++](./217_contains-duplicate/solution.cpp)|Easy|
 |224|[Basic Calculator](https://leetcode.com/problems/basic-calculator/)|[c++](./224_basic-calculator/solution.cpp)|Hard|
