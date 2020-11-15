@@ -26,6 +26,7 @@
 |38|[Count And Say](https://leetcode.com/problems/count-and-say/)|[c++](./38_count-and-say/solution.cpp)|Easy|
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[go](./53_maximum-subarray/solution.go)|Unknown|
 |54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)|[c++](./54_spiral-matrix/solution.cpp)|Medium|
+|55|[Jump Game](https://leetcode.com/problems/jump-game/)|[c++](./55_jump-game/solution.cpp)|Medium|
 |56|[Merge Intervals](https://leetcode.com/problems/merge-intervals/)|[c++](./56_merge-intervals/solution.cpp)|Medium|
 |57|[Insert Interval](https://leetcode.com/problems/insert-interval/)|[c++](./57_insert-interval/solution.cpp)|Medium|
 |59|[Spiral Matrix Ii](https://leetcode.com/problems/spiral-matrix-ii/)|[c++](./59_spiral-matrix-ii/solution.cpp)|Medium|
