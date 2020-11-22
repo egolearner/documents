@@ -12,6 +12,7 @@
 |12|[Integer To Roman](https://leetcode.com/problems/integer-to-roman/)|[c++](./leetcode/12_integer-to-roman/solution.cpp)|Easy|
 |13|[Roman To Integer](https://leetcode.com/problems/roman-to-integer/)|[c++](./leetcode/13_roman-to-integer/solution.cpp)|Easy|
 |14|[Longest](https://leetcode.com/problems/longest/)|[go](./leetcode/14_longest_common_prefix/solution.go)|Unknown|
+|15|[3 Sum](https://leetcode.com/problems/3-sum/)|[c++](./leetcode/15_3-sum/solution.cpp)|Medium|
 |17|[Letter Combinations Of A Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)|[go](./leetcode/17_letter-combinations-of-a-phone-number/solution.go) [c++](./leetcode/17_letter-combinations-of-a-phone-number/solution.cpp)|Medium|
 |17.12|[Binode Lcci](https://leetcode-cn.com/problems/binode-lcci/)|[go](./leetcode/17.12_binode-lcci/solution.go)|Unknown|
 |19|[Remove Nth Node From End Of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[go](./leetcode/19_remove-nth-node-from-end-of-list/solution.go)|Unknown|
@@ -82,7 +83,7 @@
 |179|[Largest Number](https://leetcode.com/problems/largest-number/)|[python](./leetcode/179_largest-number/solution.py) [c++](./leetcode/179_largest-number/solution.cpp)|Medium|
 |189|[Rotate Array](https://leetcode.com/problems/rotate-array/)|[c++](./leetcode/189_rotate-array/solution.cpp)|Medium|
 |198|[House Robber](https://leetcode.com/problems/house-robber/)|[c++](./leetcode/198_house-robber/solution.cpp)|Easy|
-|199|[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)|[c++](./leetcode/199_binary-tree-right-side-view/solution.cpp)|Unknown|
+|199|[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)|[c++](./leetcode/199_binary-tree-right-side-view/solution.cpp)|Medium|
 |203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)|[go](./leetcode/203_remove-linked-list-elements/solution.go)|Unknown|
 |205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)|[c++](./leetcode/205_isomorphic-strings/solution.cpp)|Easy|
 |215|[Kth Largest Element In An Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)|[c++](./leetcode/215_kth-largest-element-in-an-array/solution.cpp)|Medium|
