@@ -13,8 +13,10 @@
 |13|[Roman To Integer](https://leetcode.com/problems/roman-to-integer/)|[c++](./leetcode/13_roman-to-integer/solution.cpp)|Easy|
 |14|[Longest](https://leetcode.com/problems/longest/)|[go](./leetcode/14_longest_common_prefix/solution.go)|Unknown|
 |15|[3 Sum](https://leetcode.com/problems/3-sum/)|[c++](./leetcode/15_3-sum/solution.cpp)|Medium|
+|16|[3 Sum Closest](https://leetcode.com/problems/3-sum-closest/)|[c++](./leetcode/16_3-sum-closest/solution.cpp)|Medium|
 |17|[Letter Combinations Of A Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)|[go](./leetcode/17_letter-combinations-of-a-phone-number/solution.go) [c++](./leetcode/17_letter-combinations-of-a-phone-number/solution.cpp)|Medium|
 |17.12|[Binode Lcci](https://leetcode-cn.com/problems/binode-lcci/)|[go](./leetcode/17.12_binode-lcci/solution.go)|Unknown|
+|18|[4 Sum](https://leetcode.com/problems/4-sum/)|[c++](./leetcode/18_4-sum/solution.cpp)|Medium|
 |19|[Remove Nth Node From End Of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[go](./leetcode/19_remove-nth-node-from-end-of-list/solution.go)|Unknown|
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[c++](./leetcode/20_valid-parentheses/solution.cpp)|Easy|
 |23|[Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)|[c++](./leetcode/23_merge-k-sorted-lists/solution.cpp)|Hard|
@@ -25,6 +27,7 @@
 |34|[Find First And Last Position Of Element In Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|[c++](./leetcode/34_find-first-and-last-position-of-element-in-sorted-array/solution.cpp)|Medium|
 |36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|[c++](./leetcode/36_valid-sudoku/solution.cpp)|Medium|
 |38|[Count And Say](https://leetcode.com/problems/count-and-say/)|[c++](./leetcode/38_count-and-say/solution.cpp)|Easy|
+|39|[Combination Sum](https://leetcode.com/problems/combination-sum/)|[c++](./leetcode/39_combination-sum/solution.cpp)|Medium|
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[go](./leetcode/53_maximum-subarray/solution.go)|Unknown|
 |54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)|[c++](./leetcode/54_spiral-matrix/solution.cpp)|Medium|
 |55|[Jump Game](https://leetcode.com/problems/jump-game/)|[c++](./leetcode/55_jump-game/solution.cpp)|Medium|
@@ -85,6 +88,7 @@
 |198|[House Robber](https://leetcode.com/problems/house-robber/)|[c++](./leetcode/198_house-robber/solution.cpp)|Easy|
 |199|[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)|[c++](./leetcode/199_binary-tree-right-side-view/solution.cpp)|Medium|
 |203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)|[go](./leetcode/203_remove-linked-list-elements/solution.go)|Unknown|
+|204|[Count Primes](https://leetcode.com/problems/count-primes/)|[c++](./leetcode/204_count-primes/solution.cpp)|Easy|
 |205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)|[c++](./leetcode/205_isomorphic-strings/solution.cpp)|Easy|
 |215|[Kth Largest Element In An Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)|[c++](./leetcode/215_kth-largest-element-in-an-array/solution.cpp)|Medium|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[c++](./leetcode/217_contains-duplicate/solution.cpp)|Easy|
