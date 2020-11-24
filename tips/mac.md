@@ -46,10 +46,11 @@ on run argv
 	else
 		set showNumber to false
 	end if
-
-
+	tell application "System Events"
+		set activeApp to name of first application process whose frontmost is true
+	end tell
 	tell application "DingTalk" to activate
-
+	
 	delay 0.01
 	tell application "System Events" to tell process "DingTalk"
 		keystroke "," using command down
@@ -62,11 +63,15 @@ on run argv
 					click snBox
 				end if
 			end tell
-			keystroke "w" using command down
+			# UI elements
+			click button 1 of it
 		end tell
-		#set visible of it to false
 	end tell
-	tell application "System Events" to keystroke tab using command down
+	if "DingTalk" is not in activeApp then
+		tell application "System Events" to keystroke tab using command down
+	end if
+end run
+
 end run
 ```
 
