@@ -89,3 +89,10 @@ cd /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula
 通过git log 找到指定版本对应的.rb文件，将求保存到其他目录
 brew install 保存的.rb文件
 ```
+
+* 查询App标识
+```shell
+osascript -e 'id of app "SomeApp"'
+
+mdls -name kMDItemCFBundleIdentifier -r SomeApp.app
+```
