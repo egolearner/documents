@@ -101,3 +101,33 @@ osascript -e 'id of app "SomeApp"'
 
 mdls -name kMDItemCFBundleIdentifier -r SomeApp.app
 ```
+
+* 编译Squirrel
+```shell
+1. 修改brew，允许安装boost 1.60.0
+/usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula$ g --no-pager diff
+diff --git a/Formula/boost@1.60.rb b/Formula/boost@1.60.rb
+index a4c342f517..8f930a450d 100644
+--- a/Formula/boost@1.60.rb
++++ b/Formula/boost@1.60.rb
+@@ -17,7 +17,7 @@ class BoostAT160 < Formula
+
+   keg_only :versioned_formula
+
+-  disable! because: :versioned_formula
++  #disable! because: :versioned_formula
+
+   uses_from_macos "bzip2"
+   uses_from_macos "zlib"
+```
+
+2. 编译squirrel
+https://github.com/rime/squirrel/blob/master/INSTALL.md
+参考其中说明
+export BOOST_ROOT=/usr/local/Cellar/boost@1.60/1.60.0/
+
+执行完make deps后，需要修改支持的架构才能编译
+diff见
+https://gist.github.com/egolearner/2501b68520362d4ddc3c9b0db597736b
+make package 生成pkg包
+```
