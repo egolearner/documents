@@ -119,7 +119,6 @@ index a4c342f517..8f930a450d 100644
 
    uses_from_macos "bzip2"
    uses_from_macos "zlib"
-```
 
 2. 编译squirrel
 https://github.com/rime/squirrel/blob/master/INSTALL.md
