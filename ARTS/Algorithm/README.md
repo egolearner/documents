@@ -103,6 +103,8 @@
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[c++](./leetcode/242_valid-anagram/solution.cpp)|Easy|
 |257|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)|[c++](./leetcode/257_binary-tree-paths/solution.cpp)|Easy|
 |260|[Single Number Iii](https://leetcode.com/problems/single-number-iii/)|[c++](./leetcode/260_single-number-iii/solution.cpp)|Medium|
+|263|[Ugly Number](https://leetcode.com/problems/ugly-number/)|[c++](./leetcode/263_ugly-number/solution.cpp)|Easy|
+|278|[First Bad Version](https://leetcode.com/problems/first-bad-version/)|[c++](./leetcode/278_first-bad-version/solution.cpp)|Easy|
 |284|[Peeking Iterator](https://leetcode.com/problems/peeking-iterator/)|[c++](./leetcode/284_peeking-iterator/solution.cpp)|Medium|
 |297|[Serialize And Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)|[c++](./leetcode/297_serialize-and-deserialize-binary-tree/solution.cpp)|Hard|
 |328|[Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)|[go](./leetcode/328_odd-even-linked-list/solution.go) [c++](./leetcode/328_odd-even-linked-list/solution.cpp)|Medium|
