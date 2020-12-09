@@ -411,3 +411,22 @@ python默认会将当前目录和脚本所在目录加入sys.path中，所以下
 ## [Memory inside Linux containers](https://fabiokung.com/2014/03/13/memory-inside-linux-containers/)
 ### 主要内容
 free/top/psutil等都是基于/proc/meminfo、/proc/vmstat的数据，这些容器并不感知cgroup，容器中读到的文件和物理机中读到的文件相同，因此free/top/psutil在容器中的结果不准。
+
+## [10 Reasons You Should Wake-Up At 5AM For 30 Days Straight](https://medium.com/mind-cafe/10-reasons-you-should-wake-up-at-5am-for-30-days-straight-6cb052ae54b9)
+早起技巧。
+1. You start going to bed sooner
+1. In order to go to bed sooner, you must avoid your consumption-based nightly addictions
+1. The first few nights, you may have a hard time falling asleep
+1. Therefore, the first few 5AM mornings, you may be exhausted
+1. But that exhaustion will, eventually, lead to better and earlier sleep
+1. When you set an alarm, that alarm should be on the opposite side of the room or in a different room altogether
+1. Once you wake up, you should already know what you’re going to do
+1. Therefore, you must decide what you’re going to do the night before
+1. Make it easy on yourself: Don’t have more than 3 items on your to-do list
+1. When you get out of bed to turn off your alarm, drink a big cup of water
+1. Don’t get back in bed
+1. Put your shoes on, go outside, and get into a new environment (I like my car)
+1. Be active, not passive about waking up
+1. Within 5–10 minutes, if you’re active about waking up, you’ll start to feel really good
+1. Have something meaningful to do during your “Morning routine”
+
