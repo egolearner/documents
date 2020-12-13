@@ -123,6 +123,7 @@
 |434|[Number Of Segments In A String](https://leetcode.com/problems/number-of-segments-in-a-string/)|[c++](./leetcode/434_number-of-segments-in-a-string/solution.cpp)|Easy|
 |445|[Add Two Numbers Ii](https://leetcode.com/problems/add-two-numbers-ii/)|[c++](./leetcode/445_add-two-numbers-ii/solution.cpp)|Medium|
 |449|[Serialize And Deserialize Bst](https://leetcode.com/problems/serialize-and-deserialize-bst/)|[c++](./leetcode/449_serialize-and-deserialize-bst/solution.cpp)|Medium|
+|504|[Base 7](https://leetcode.com/problems/base-7/)|[c++](./leetcode/504_base-7/solution.cpp)|Easy|
 |508|[Most Frequent Subtree Sum](https://leetcode.com/problems/most-frequent-subtree-sum/)|[c++](./leetcode/508_most-frequent-subtree-sum/solution.cpp)|Medium|
 |540|[Single Element In A Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/)|[c++](./leetcode/540_single-element-in-a-sorted-array/solution.cpp)|Medium|
 |559|[Maximum Depth Of N Ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/)|[c++](./leetcode/559_maximum-depth-of-n-ary-tree/solution.cpp)|Easy|
