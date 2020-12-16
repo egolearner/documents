@@ -430,3 +430,12 @@ free/top/psutil等都是基于/proc/meminfo、/proc/vmstat的数据，这些容�
 1. Within 5–10 minutes, if you’re active about waking up, you’ll start to feel really good
 1. Have something meaningful to do during your “Morning routine”
 
+## [Windows Subsystem for Linux: The lost potential](https://jmmv.dev/2020/11/wsl-lost-potential.html)
+### 主要内容
+* WSL1 基于NT kernel来实现linux的系统调用，Linux作为NT的subsystem存在。潜在的优势是能够使用linux的命令管理windows的东西。但是因为文件系统的原因慢，linux的支持也不完整。
+* WSL2 linux运行在虚拟机中。有完整的linux支持，但和windows完全是分开的。
+
+### 评论
+* 从MSFT的角度看做这样的决策是合理的，支持成本低，兼容度高。MSFT也不希望寄生的linux吃掉寄主。
+* 对于linux玩家，WSL1如果继续发展的话，跟linux的一个发行版差别不大。确实是最理想的。
+
