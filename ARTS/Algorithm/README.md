@@ -170,6 +170,7 @@
 |1470|[Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)|[c++](./leetcode/1470_shuffle-the-array/solution.cpp)|Easy|
 |1523|[Count Odd Numbers In An Interval Range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/)|[c++](./leetcode/1523_count-odd-numbers-in-an-interval-range/solution.cpp)|Easy|
 |1550|[Three Consecutive Odds](https://leetcode.com/problems/three-consecutive-odds/)|[c++](./leetcode/1550_three-consecutive-odds/solution.cpp)|Easy|
+|1556|[Thousand Separator](https://leetcode.com/problems/thousand-separator/)|[c++](./leetcode/1556_thousand-separator/solution.cpp)|Easy|
 |1609|[Even Odd Tree](https://leetcode.com/problems/even-odd-tree/)|[c++](./leetcode/1609_even-odd-tree/solution.cpp)|Medium|
 
 ## Shell
