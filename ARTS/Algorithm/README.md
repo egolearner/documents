@@ -131,6 +131,7 @@
 |572|[Subtree Of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)|[c++](./leetcode/572_subtree-of-another-tree/solution.cpp)|Easy|
 |589|[N Ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/)|[c++](./leetcode/589_n-ary-tree-preorder-traversal/solution.cpp)|Easy|
 |590|[N Ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/)|[c++](./leetcode/590_n-ary-tree-postorder-traversal/solution.cpp)|Easy|
+|599|[Minimum Index Sum Of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists/)|[c++](./leetcode/599_minimum-index-sum-of-two-lists/solution.cpp)|Easy|
 |617|[Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/)|[c++](./leetcode/617_merge-two-binary-trees/solution.cpp)|Easy|
 |623|[Add One Row To Tree](https://leetcode.com/problems/add-one-row-to-tree/)|[c++](./leetcode/623_add-one-row-to-tree/solution.cpp)|Medium|
 |637|[Average Of Levels In Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/)|[c++](./leetcode/637_average-of-levels-in-binary-tree/solution.cpp)|Unknown|

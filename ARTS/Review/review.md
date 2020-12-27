@@ -439,3 +439,13 @@ free/top/psutil等都是基于/proc/meminfo、/proc/vmstat的数据，这些容�
 * 从MSFT的角度看做这样的决策是合理的，支持成本低，兼容度高。MSFT也不希望寄生的linux吃掉寄主。
 * 对于linux玩家，WSL1如果继续发展的话，跟linux的一个发行版差别不大。确实是最理想的。
 
+## [Pmarca Guide to Personal Productivity](https://pmarchive.com/guide_to_personal_productivity.html)
+### 主要内容
+* 战术性拖延，拖延的时候做其他重要的事情。本质上是不浪费时间。
+* 不做预约承诺。
+* 每天选3-5件事，做完。todo list以外的事情，记到背面，作为anti-todo-list。知道一天在做什么。
+* todo/wait/later三个list。
+* 不接电话，每天两个时间段处理邮件和查看语言信箱。
+### 评论
+战术性拖延值得参考，既然拖延是避免不了的索性做别的重要的事情。
+
