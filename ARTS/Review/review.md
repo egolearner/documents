@@ -449,3 +449,9 @@ free/top/psutil等都是基于/proc/meminfo、/proc/vmstat的数据，这些容�
 ### 评论
 战术性拖延值得参考，既然拖延是避免不了的索性做别的重要的事情。
 
+## [King's Day Speech](https://neopythonic.blogspot.com/2016/04/kings-day-speech.html)
+### 主要内容
+Python之父的分享，Guido认为Python成功的原因是借助互联网能够及时得到用户的反馈，吸引了专业的人才形成了社区。
+
+里面提到了一件轶事，Google的第一版也是用Python写的。以前只知道Youtube早期是用Python写的。
+
