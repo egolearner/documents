@@ -455,3 +455,17 @@ Python之父的分享，Guido认为Python成功的原因是借助互联网能够
 
 里面提到了一件轶事，Google的第一版也是用Python写的。以前只知道Youtube早期是用Python写的。
 
+## [Replace Your To-Do List With Interstitial Journaling To Increase Productivity](https://medium.com/better-humans/replace-your-to-do-list-with-interstitial-journaling-to-increase-productivity-4e43109d15ef)
+### 主要内容
+使用日记替代todo list，使用番茄工作法时，将5分钟的放松时间改为写日记。写的内容包括：前面事情的总结，做了什么事情；后面事情的想法，作者强调也写清楚First Action，一个清晰马上可执行的事项。
+
+1. Note the time. Most people will find having these timestamps to be useful to look back on.
+2. Write a few sentences about what you just worked on. “What project did I just finish? Are there any parts of that project that I’m still thinking about?” Use complete sentences rather than one word answers. “Email. Yes.” is not a valid answer.
+3. Write a few sentences about what you’re about to work on. “What is the first action of the project I’m about to start? How should I approach getting the project done?”
+
+写日记的好处是
+* 清空大脑。任务上下文切换的时候有残留记忆。
+* 避免拖延。使用First Action清晰定义下一件任务的马上可执行的事项，让大脑的负担降到最低。
+* 有觉知的筹划。写日记的时候对下一件事可能有更清晰的思考。
+### 评论
+尝试一下。
