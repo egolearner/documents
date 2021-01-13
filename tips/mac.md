@@ -130,3 +130,10 @@ diff见
 https://gist.github.com/egolearner/2501b68520362d4ddc3c9b0db597736b
 make package 生成pkg包
 ```
+
+* markdown转pdf
+```shell
+brew install pandoc
+brew install --cask basictex
+pandoc --pdf-engine=xelatex -V CJKmainfont="Songti SC" -V colorlinks -V urlcolor=NavyBlue --toc -f markdown+smart   *.md -o result.pdf
+```
