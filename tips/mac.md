@@ -137,3 +137,8 @@ brew install pandoc
 brew install --cask basictex
 pandoc --pdf-engine=xelatex -V CJKmainfont="Songti SC" -V colorlinks -V urlcolor=NavyBlue --toc -f markdown+smart   *.md -o result.pdf
 ```
+
+* 获取ip地址
+```shell
+ipconfig getifaddr en0
+```
