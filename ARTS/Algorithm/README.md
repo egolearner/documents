@@ -144,6 +144,7 @@
 |693|[Binary Number With Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits/)|[c++](./leetcode/693_binary-number-with-alternating-bits/solution.cpp)|Easy|
 |700|[Search In A Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)|[c++](./leetcode/700_search-in-a-binary-search-tree/solution.cpp)|Easy|
 |701|[Insert Into A Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/)|[c++](./leetcode/701_insert-into-a-binary-search-tree/solution.cpp)|Medium|
+|704|[Binary Search](https://leetcode.com/problems/binary-search/)|[c++](./leetcode/704_binary-search/solution.cpp)|Easy|
 |709|[To Lower Case](https://leetcode.com/problems/to-lower-case/)|[c++](./leetcode/709_to-lower-case/solution.cpp)|Easy|
 |725|[Split Linked List In Parts](https://leetcode.com/problems/split-linked-list-in-parts/)|[c++](./leetcode/725_split-linked-list-in-parts/solution.cpp)|Medium|
 |783|[Minimum Distance Between Bst Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/)|[c++](./leetcode/783_minimum-distance-between-bst-nodes/solution.cpp)|Easy|
