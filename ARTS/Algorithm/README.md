@@ -154,6 +154,7 @@
 |880|[Decoded String At Index](https://leetcode.com/problems/decoded-string-at-index/)|[c++](./leetcode/880_decoded-string-at-index/solution.cpp)|Unknown|
 |897|[Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree/)|[c++](./leetcode/897_increasing-order-search-tree/solution.cpp)|Easy|
 |938|[Range Sum Of Bst](https://leetcode.com/problems/range-sum-of-bst/)|[c++](./leetcode/938_range-sum-of-bst/solution.cpp)|Easy|
+|965|[Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree/)|[c++](./leetcode/965_univalued-binary-tree/solution.cpp)|Easy|
 |980|[Unique Paths Iii](https://leetcode.com/problems/unique-paths-iii/)|[go](./leetcode/980_unique-paths-iii/solution.go)|Unknown|
 |986|[Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/)|[c++](./leetcode/986_interval-list-intersections/solution.cpp)|Medium|
 |987|[Vertical Order Traversal Of A Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/)|[c++](./leetcode/987_vertical-order-traversal-of-a-binary-tree/solution.cpp)|Medium|
