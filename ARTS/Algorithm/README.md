@@ -179,6 +179,7 @@
 |1550|[Three Consecutive Odds](https://leetcode.com/problems/three-consecutive-odds/)|[c++](./leetcode/1550_three-consecutive-odds/solution.cpp)|Easy|
 |1556|[Thousand Separator](https://leetcode.com/problems/thousand-separator/)|[c++](./leetcode/1556_thousand-separator/solution.cpp)|Easy|
 |1609|[Even Odd Tree](https://leetcode.com/problems/even-odd-tree/)|[c++](./leetcode/1609_even-odd-tree/solution.cpp)|Medium|
+|1754|[Largest Merge Of Two Strings](https://leetcode.com/problems/largest-merge-of-two-strings/)|[c++](./leetcode/1754_largest-merge-of-two-strings/solution.cpp)|Medium|
 
 ## Shell
 | # | Title | Solution | Difficulty |
