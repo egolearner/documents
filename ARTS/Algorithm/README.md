@@ -28,6 +28,7 @@
 |36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|[c++](./leetcode/36_valid-sudoku/solution.cpp)|Medium|
 |38|[Count And Say](https://leetcode.com/problems/count-and-say/)|[c++](./leetcode/38_count-and-say/solution.cpp)|Easy|
 |39|[Combination Sum](https://leetcode.com/problems/combination-sum/)|[c++](./leetcode/39_combination-sum/solution.cpp)|Medium|
+|43|[Multiply Strings](https://leetcode.com/problems/multiply-strings/)|[c++](./leetcode/43_multiply-strings/solution.cpp)|Medium|
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[go](./leetcode/53_maximum-subarray/solution.go)|Unknown|
 |54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)|[c++](./leetcode/54_spiral-matrix/solution.cpp)|Medium|
 |55|[Jump Game](https://leetcode.com/problems/jump-game/)|[c++](./leetcode/55_jump-game/solution.cpp)|Medium|
@@ -93,7 +94,9 @@
 |215|[Kth Largest Element In An Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)|[c++](./leetcode/215_kth-largest-element-in-an-array/solution.cpp)|Medium|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[c++](./leetcode/217_contains-duplicate/solution.cpp)|Easy|
 |224|[Basic Calculator](https://leetcode.com/problems/basic-calculator/)|[c++](./leetcode/224_basic-calculator/solution.cpp)|Hard|
+|225|[Implement Stack Using Queues](https://leetcode.com/problems/implement-stack-using-queues/)|[c++](./leetcode/225_implement-stack-using-queues/solution.cpp)|Easy|
 |228|[Summary Ranges](https://leetcode.com/problems/summary-ranges/)|[c++](./leetcode/228_summary-ranges/solution.cpp)|Medium|
+|230|[Kth Smallest Element In A Bst](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)|[c++](./leetcode/230_kth-smallest-element-in-a-bst/solution.cpp)|Medium|
 |231|[Power Of Two](https://leetcode.com/problems/power-of-two/)|[c++](./leetcode/231_power-of-two/solution.cpp)|Easy|
 |234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)|[c++](./leetcode/234_palindrome-linked-list/solution.cpp)|Easy|
 |235|[Lowest Common Ancestor Of A Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)|[go](./leetcode/235_lowest-common-ancestor-of-a-binary-search-tree/solution.go)|Unknown|
