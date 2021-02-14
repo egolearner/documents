@@ -21,6 +21,7 @@
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[c++](./leetcode/20_valid-parentheses/solution.cpp)|Easy|
 |23|[Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)|[c++](./leetcode/23_merge-k-sorted-lists/solution.cpp)|Hard|
 |25|[Reverse Nodes In K Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)|[c++](./leetcode/25_reverse-nodes-in-k-group/solution.cpp)|Hard|
+|29|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)|[c++](./leetcode/29_divide-two-integers/solution.cpp)|Medium|
 |31|[Next Permutation](https://leetcode.com/problems/next-permutation/)|[c++](./leetcode/31_next-permutation/solution.cpp)|Medium|
 |32|[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)|[c++](./leetcode/32_longest-valid-parentheses/solution.cpp)|Hard|
 |33|[Search In Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|[c++](./leetcode/33_search-in-rotated-sorted-array/solution.cpp)|Medium|
