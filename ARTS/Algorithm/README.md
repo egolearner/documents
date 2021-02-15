@@ -142,6 +142,7 @@
 |617|[Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/)|[c++](./leetcode/617_merge-two-binary-trees/solution.cpp)|Easy|
 |623|[Add One Row To Tree](https://leetcode.com/problems/add-one-row-to-tree/)|[c++](./leetcode/623_add-one-row-to-tree/solution.cpp)|Medium|
 |637|[Average Of Levels In Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/)|[c++](./leetcode/637_average-of-levels-in-binary-tree/solution.cpp)|Unknown|
+|653|[Two Sum Iv Input Is A Bst](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/)|[c++](./leetcode/653_two-sum-iv-input-is-a-bst/solution.cpp)|Easy|
 |654|[Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/)|[go](./leetcode/654_maximum-binary-tree/solution.go)|Unknown|
 |665|[Non Decreasing Array](https://leetcode.com/problems/non-decreasing-array/)|[c++](./leetcode/665_non-decreasing-array/solution.cpp)|Unknown|
 |669|[Trim A Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/)|[c++](./leetcode/669_trim-a-binary-search-tree/solution.cpp)|Easy|
@@ -176,6 +177,7 @@
 |1209|[Remove All Adjacent Duplicates In String Ii](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/)|[go](./leetcode/1209_remove-all-adjacent-duplicates-in-string-ii/solution.go)|Unknown|
 |1302|[Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/)|[go](./leetcode/1302_deepest-leaves-sum/solution.go)|Unknown|
 |1304|[Find N Unique Integers Sum Up To Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/)|[c++](./leetcode/1304_find-n-unique-integers-sum-up-to-zero/solution.cpp)|Easy|
+|1367|[Linked List In Binary Tree](https://leetcode.com/problems/linked-list-in-binary-tree/)|[c++](./leetcode/1367_linked-list-in-binary-tree/solution.cpp)|Medium|
 |1431|[Kids With The Greatest Number Of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)|[c++](./leetcode/1431_kids-with-the-greatest-number-of-candies/solution.cpp)|Unknown|
 |1464|[Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/)|[c++](./leetcode/1464_maximum-product-of-two-elements-in-an-array/solution.cpp)|Easy|
 |1470|[Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)|[c++](./leetcode/1470_shuffle-the-array/solution.cpp)|Easy|
