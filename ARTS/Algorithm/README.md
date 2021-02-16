@@ -110,6 +110,7 @@
 |263|[Ugly Number](https://leetcode.com/problems/ugly-number/)|[c++](./leetcode/263_ugly-number/solution.cpp)|Easy|
 |278|[First Bad Version](https://leetcode.com/problems/first-bad-version/)|[c++](./leetcode/278_first-bad-version/solution.cpp)|Easy|
 |284|[Peeking Iterator](https://leetcode.com/problems/peeking-iterator/)|[c++](./leetcode/284_peeking-iterator/solution.cpp)|Medium|
+|287|[Find The Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)|[c++](./leetcode/287_find-the-duplicate-number/solution.cpp)|Medium|
 |297|[Serialize And Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)|[c++](./leetcode/297_serialize-and-deserialize-binary-tree/solution.cpp)|Hard|
 |328|[Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)|[go](./leetcode/328_odd-even-linked-list/solution.go) [c++](./leetcode/328_odd-even-linked-list/solution.cpp)|Medium|
 |341|[Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/)|[c++](./leetcode/341_flatten-nested-list-iterator/solution.cpp)|Unknown|
