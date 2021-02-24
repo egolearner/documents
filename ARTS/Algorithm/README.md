@@ -30,6 +30,8 @@
 |38|[Count And Say](https://leetcode.com/problems/count-and-say/)|[c++](./leetcode/38_count-and-say/solution.cpp)|Easy|
 |39|[Combination Sum](https://leetcode.com/problems/combination-sum/)|[c++](./leetcode/39_combination-sum/solution.cpp)|Medium|
 |43|[Multiply Strings](https://leetcode.com/problems/multiply-strings/)|[c++](./leetcode/43_multiply-strings/solution.cpp)|Medium|
+|46|[Permutations](https://leetcode.com/problems/permutations/)|[c++](./leetcode/46_permutations/solution.cpp)|Medium|
+|51|[N Queens](https://leetcode.com/problems/n-queens/)|[c++](./leetcode/51_n-queens/solution.cpp)|Hard|
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[go](./leetcode/53_maximum-subarray/solution.go)|Unknown|
 |54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)|[c++](./leetcode/54_spiral-matrix/solution.cpp)|Medium|
 |55|[Jump Game](https://leetcode.com/problems/jump-game/)|[c++](./leetcode/55_jump-game/solution.cpp)|Medium|
