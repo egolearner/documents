@@ -160,6 +160,7 @@
 |704|[Binary Search](https://leetcode.com/problems/binary-search/)|[c++](./leetcode/704_binary-search/solution.cpp)|Easy|
 |709|[To Lower Case](https://leetcode.com/problems/to-lower-case/)|[c++](./leetcode/709_to-lower-case/solution.cpp)|Easy|
 |725|[Split Linked List In Parts](https://leetcode.com/problems/split-linked-list-in-parts/)|[c++](./leetcode/725_split-linked-list-in-parts/solution.cpp)|Medium|
+|752|[Open The Lock](https://leetcode.com/problems/open-the-lock/)|[c++](./leetcode/752_open-the-lock/solution.cpp)|Medium|
 |771|[Jewels And Stones](https://leetcode.com/problems/jewels-and-stones/)|[c++](./leetcode/771_jewels-and-stones/solution.cpp)|Easy|
 |783|[Minimum Distance Between Bst Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/)|[c++](./leetcode/783_minimum-distance-between-bst-nodes/solution.cpp)|Easy|
 |814|[Binary Tree Pruning](https://leetcode.com/problems/binary-tree-pruning/)|[c++](./leetcode/814_binary-tree-pruning/solution.cpp)|Medium|
