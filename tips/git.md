@@ -48,6 +48,6 @@ git ls-files -o
 ```
 
 * stash with custom message
-* ```
-* git stash push -m xxx
-* ```
+```
+git stash push -m xxx
+```
