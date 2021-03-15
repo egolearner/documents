@@ -46,3 +46,8 @@ git rev-parse --short HEAD
 ```
 git ls-files -o
 ```
+
+* stash with custom message
+* ```
+* git stash push -m xxx
+* ```
