@@ -122,6 +122,7 @@
 |341|[Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/)|[c++](./leetcode/341_flatten-nested-list-iterator/solution.cpp)|Unknown|
 |344|[Reverse](https://leetcode.com/problems/reverse/)|[go](./leetcode/344_reverse_string/solution.go)|Unknown|
 |345|[Reverse Vowels Of A String](https://leetcode.com/problems/reverse-vowels-of-a-string/)|[c++](./leetcode/345_reverse-vowels-of-a-string/solution.cpp)|Unknown|
+|349|[Intersection Of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)|[c++](./leetcode/349_intersection-of-two-arrays/solution.cpp)|Easy|
 |382|[Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/)|[c++](./leetcode/382_linked-list-random-node/solution.cpp)|Medium|
 |389|[Find The Difference](https://leetcode.com/problems/find-the-difference/)|[c++](./leetcode/389_find-the-difference/solution.cpp)|Easy|
 |393|[Utf 8 Validation](https://leetcode.com/problems/utf-8-validation/)|[c++](./leetcode/393_utf-8-validation/solution.cpp)|Medium|
