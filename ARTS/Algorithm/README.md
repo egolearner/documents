@@ -187,6 +187,7 @@
 |1209|[Remove All Adjacent Duplicates In String Ii](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/)|[go](./leetcode/1209_remove-all-adjacent-duplicates-in-string-ii/solution.go)|Unknown|
 |1302|[Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/)|[go](./leetcode/1302_deepest-leaves-sum/solution.go)|Unknown|
 |1304|[Find N Unique Integers Sum Up To Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/)|[c++](./leetcode/1304_find-n-unique-integers-sum-up-to-zero/solution.cpp)|Easy|
+|1356|[Sort Integers By The Number Of 1 Bits](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/)|[c++](./leetcode/1356_sort-integers-by-the-number-of-1-bits/solution.cpp)|Easy|
 |1367|[Linked List In Binary Tree](https://leetcode.com/problems/linked-list-in-binary-tree/)|[c++](./leetcode/1367_linked-list-in-binary-tree/solution.cpp)|Medium|
 |1431|[Kids With The Greatest Number Of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)|[c++](./leetcode/1431_kids-with-the-greatest-number-of-candies/solution.cpp)|Unknown|
 |1464|[Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/)|[c++](./leetcode/1464_maximum-product-of-two-elements-in-an-array/solution.cpp)|Easy|
