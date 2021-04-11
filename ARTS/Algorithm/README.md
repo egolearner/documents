@@ -197,6 +197,7 @@
 |1556|[Thousand Separator](https://leetcode.com/problems/thousand-separator/)|[c++](./leetcode/1556_thousand-separator/solution.cpp)|Easy|
 |1609|[Even Odd Tree](https://leetcode.com/problems/even-odd-tree/)|[c++](./leetcode/1609_even-odd-tree/solution.cpp)|Medium|
 |1662|[Check If Two String Arrays Are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)|[c++](./leetcode/1662_check-if-two-string-arrays-are-equivalent/solution.cpp)|Easy|
+|1704|[Determine If String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike/)|[c++](./leetcode/1704_determine-if-string-halves-are-alike/solution.cpp)|Easy|
 |1754|[Largest Merge Of Two Strings](https://leetcode.com/problems/largest-merge-of-two-strings/)|[c++](./leetcode/1754_largest-merge-of-two-strings/solution.cpp)|Medium|
 
 ## Shell
