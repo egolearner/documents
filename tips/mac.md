@@ -142,3 +142,6 @@ pandoc --pdf-engine=xelatex -V CJKmainfont="Songti SC" -V colorlinks -V urlcolor
 ```shell
 ipconfig getifaddr en0
 ```
+
+* Big Sur开启HiDPI  https://juejin.cn/post/6894638510158905352/
+
