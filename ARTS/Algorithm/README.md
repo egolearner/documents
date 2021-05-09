@@ -170,6 +170,7 @@
 |880|[Decoded String At Index](https://leetcode.com/problems/decoded-string-at-index/)|[c++](./leetcode/880_decoded-string-at-index/solution.cpp)|Unknown|
 |884|[Uncommon Words From Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences/)|[c++](./leetcode/884_uncommon-words-from-two-sentences/solution.cpp)|Easy|
 |897|[Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree/)|[c++](./leetcode/897_increasing-order-search-tree/solution.cpp)|Easy|
+|905|[Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)|[c++](./leetcode/905_sort-array-by-parity/solution.cpp)|Easy|
 |938|[Range Sum Of Bst](https://leetcode.com/problems/range-sum-of-bst/)|[c++](./leetcode/938_range-sum-of-bst/solution.cpp)|Easy|
 |965|[Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree/)|[c++](./leetcode/965_univalued-binary-tree/solution.cpp)|Easy|
 |980|[Unique Paths Iii](https://leetcode.com/problems/unique-paths-iii/)|[go](./leetcode/980_unique-paths-iii/solution.go)|Unknown|
