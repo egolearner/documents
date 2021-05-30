@@ -105,7 +105,8 @@
 |230|[Kth Smallest Element In A Bst](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)|[c++](./leetcode/230_kth-smallest-element-in-a-bst/solution.cpp)|Medium|
 |231|[Power Of Two](https://leetcode.com/problems/power-of-two/)|[c++](./leetcode/231_power-of-two/solution.cpp)|Easy|
 |234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)|[c++](./leetcode/234_palindrome-linked-list/solution.cpp)|Easy|
-|235|[Lowest Common Ancestor Of A Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)|[go](./leetcode/235_lowest-common-ancestor-of-a-binary-search-tree/solution.go)|Unknown|
+|235|[Lowest Common Ancestor Of A Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)|[go](./leetcode/235_lowest-common-ancestor-of-a-binary-search-tree/solution.go)[c++](./leetcode/235_lowest-common-ancestor-of-a-binary-search-tree/solution.cpp)|Easy|
+|236|[Lowest Common Ancestor Of A Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)|[c++](./leetcode/236_lowest-common-ancestor-of-a-binary-tree/solution.cpp)|Medium|
 |237|[Delete Node In A Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)|[go](./leetcode/237_delete-node-in-a-linked-list/solution.go) [c++](./leetcode/237_delete-node-in-a-linked-list/solution.cpp)|Easy|
 |240|[Search A 2 D Matrix Ii](https://leetcode.com/problems/search-a-2-d-matrix-ii/)|[c++](./leetcode/240_search-a-2-d-matrix-ii/solution.cpp)|Medium|
 |241|[Different Ways To Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/)|[go](./leetcode/241_different-ways-to-add-parentheses/solution.go)|Unknown|
