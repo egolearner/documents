@@ -5,3 +5,4 @@
 >             should be used with caution.
 
 * `dig +short hostname` convert hostname to ip
+* `numactl --hardware` show numa information
