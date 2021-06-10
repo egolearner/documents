@@ -144,4 +144,5 @@ ipconfig getifaddr en0
 ```
 
 * Big Sur开启HiDPI  https://juejin.cn/post/6894638510158905352/
+* alias ldd='otool -L'
 
