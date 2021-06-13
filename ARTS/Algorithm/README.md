@@ -29,6 +29,7 @@
 |36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|[c++](./leetcode/36_valid-sudoku/solution.cpp)|Medium|
 |38|[Count And Say](https://leetcode.com/problems/count-and-say/)|[c++](./leetcode/38_count-and-say/solution.cpp)|Easy|
 |39|[Combination Sum](https://leetcode.com/problems/combination-sum/)|[c++](./leetcode/39_combination-sum/solution.cpp)|Medium|
+|40|[Combination Sum Ii](https://leetcode.com/problems/combination-sum-ii/)|[c++](./leetcode/40_combination-sum-ii/solution.cpp)|Medium|
 |43|[Multiply Strings](https://leetcode.com/problems/multiply-strings/)|[c++](./leetcode/43_multiply-strings/solution.cpp)|Medium|
 |46|[Permutations](https://leetcode.com/problems/permutations/)|[c++](./leetcode/46_permutations/solution.cpp)|Medium|
 |51|[N Queens](https://leetcode.com/problems/n-queens/)|[c++](./leetcode/51_n-queens/solution.cpp)|Hard|
@@ -100,6 +101,7 @@
 |204|[Count Primes](https://leetcode.com/problems/count-primes/)|[c++](./leetcode/204_count-primes/solution.cpp)|Easy|
 |205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)|[c++](./leetcode/205_isomorphic-strings/solution.cpp)|Easy|
 |215|[Kth Largest Element In An Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)|[c++](./leetcode/215_kth-largest-element-in-an-array/solution.cpp)|Medium|
+|216|[Combination Sum Iii](https://leetcode.com/problems/combination-sum-iii/)|[c++](./leetcode/216_combination-sum-iii/solution.cpp)|Medium|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[c++](./leetcode/217_contains-duplicate/solution.cpp)|Easy|
 |224|[Basic Calculator](https://leetcode.com/problems/basic-calculator/)|[c++](./leetcode/224_basic-calculator/solution.cpp)|Hard|
 |225|[Implement Stack Using Queues](https://leetcode.com/problems/implement-stack-using-queues/)|[c++](./leetcode/225_implement-stack-using-queues/solution.cpp)|Easy|
