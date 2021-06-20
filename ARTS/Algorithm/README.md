@@ -186,7 +186,7 @@
 |997|[Find The Town Judge](https://leetcode.com/problems/find-the-town-judge/)|[c++](./leetcode/997_find-the-town-judge/solution.cpp)|Easy|
 |1008|[Construct Binary Search Tree From Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/)|[c++](./leetcode/1008_construct-binary-search-tree-from-preorder-traversal/solution.cpp)|Medium|
 |1028|[Recover A Tree From Preorder Traversal](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/)|[c++](./leetcode/1028_recover-a-tree-from-preorder-traversal/solution.cpp)|Hard|
-|1038|[Binary Search Tree To Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/)|[go](./leetcode/1038_binary-search-tree-to-greater-sum-tree/solution.go)|Unknown|
+|1038|[Binary Search Tree To Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/)|[go](./leetcode/1038_binary-search-tree-to-greater-sum-tree/solution.go) [c++](./leetcode/1038_binary-search-tree-to-greater-sum-tree/solution.cpp)|Medium|
 |1110|[Delete Nodes And Return Forest](https://leetcode.com/problems/delete-nodes-and-return-forest/)|[c++](./leetcode/1110_delete-nodes-and-return-forest/solution.cpp)|Medium|
 |1137|[N Th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)|[go](./leetcode/1137_n-th-tribonacci-number/solution.go)|Easy|
 |1161|[Maximum Level Sum Of A Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/)|[c++](./leetcode/1161_maximum-level-sum-of-a-binary-tree/solution.cpp)|Medium|
