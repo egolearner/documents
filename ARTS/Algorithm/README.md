@@ -185,6 +185,7 @@
 |993|[Cousins In Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree/)|[c++](./leetcode/993_cousins-in-binary-tree/solution.cpp)|Easy|
 |997|[Find The Town Judge](https://leetcode.com/problems/find-the-town-judge/)|[c++](./leetcode/997_find-the-town-judge/solution.cpp)|Easy|
 |1008|[Construct Binary Search Tree From Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/)|[c++](./leetcode/1008_construct-binary-search-tree-from-preorder-traversal/solution.cpp)|Medium|
+|1022|[Sum Of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/)|[c++](./leetcode/1022_sum-of-root-to-leaf-binary-numbers/solution.cpp)|Easy|
 |1028|[Recover A Tree From Preorder Traversal](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/)|[c++](./leetcode/1028_recover-a-tree-from-preorder-traversal/solution.cpp)|Hard|
 |1038|[Binary Search Tree To Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/)|[go](./leetcode/1038_binary-search-tree-to-greater-sum-tree/solution.go) [c++](./leetcode/1038_binary-search-tree-to-greater-sum-tree/solution.cpp)|Medium|
 |1110|[Delete Nodes And Return Forest](https://leetcode.com/problems/delete-nodes-and-return-forest/)|[c++](./leetcode/1110_delete-nodes-and-return-forest/solution.cpp)|Medium|
