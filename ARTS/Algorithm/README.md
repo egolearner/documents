@@ -19,6 +19,7 @@
 |18|[4 Sum](https://leetcode.com/problems/4-sum/)|[c++](./leetcode/18_4-sum/solution.cpp)|Medium|
 |19|[Remove Nth Node From End Of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[go](./leetcode/19_remove-nth-node-from-end-of-list/solution.go)|Unknown|
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[c++](./leetcode/20_valid-parentheses/solution.cpp)|Easy|
+|22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)|[c++](./leetcode/22_generate-parentheses/solution.cpp)|Medium|
 |23|[Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)|[c++](./leetcode/23_merge-k-sorted-lists/solution.cpp)|Hard|
 |25|[Reverse Nodes In K Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)|[c++](./leetcode/25_reverse-nodes-in-k-group/solution.cpp)|Hard|
 |29|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)|[c++](./leetcode/29_divide-two-integers/solution.cpp)|Medium|
