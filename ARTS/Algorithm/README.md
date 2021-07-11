@@ -32,6 +32,7 @@
 |39|[Combination Sum](https://leetcode.com/problems/combination-sum/)|[c++](./leetcode/39_combination-sum/solution.cpp)|Medium|
 |40|[Combination Sum Ii](https://leetcode.com/problems/combination-sum-ii/)|[c++](./leetcode/40_combination-sum-ii/solution.cpp)|Medium|
 |43|[Multiply Strings](https://leetcode.com/problems/multiply-strings/)|[c++](./leetcode/43_multiply-strings/solution.cpp)|Medium|
+|44|[Wildcard Matching](https://leetcode.com/problems/wildcard-matching/)|[c++](./leetcode/44_wildcard-matching/solution.cpp)|Hard|
 |46|[Permutations](https://leetcode.com/problems/permutations/)|[c++](./leetcode/46_permutations/solution.cpp)|Medium|
 |51|[N Queens](https://leetcode.com/problems/n-queens/)|[c++](./leetcode/51_n-queens/solution.cpp)|Hard|
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[go](./leetcode/53_maximum-subarray/solution.go)|Unknown|
