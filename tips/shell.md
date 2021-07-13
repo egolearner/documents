@@ -6,3 +6,9 @@
 
 * `dig +short hostname` convert hostname to ip
 * `numactl --hardware` show numa information
+* move running process to tmux/screen
+  1. Suspend the respective process with `Ctrl-Z`
+  1. Send the job to background using `bg`
+  1. Take away the ownership from the shell using `disown`
+  1. Start or enter your tmux/screen session
+  1. Run `reptyr PID` to attach the process to the current shell
