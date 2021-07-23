@@ -11,4 +11,4 @@
   1. Send the job to background using `bg`
   1. Take away the ownership from the shell using `disown`
   1. Start or enter your tmux/screen session
-  1. Run `reptyr PID` to attach the process to the current shell
+  1. Run `reptyr PID` to attach the process to the current shell（`reptyr -T PID` if process has subprocess)
