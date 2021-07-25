@@ -143,6 +143,7 @@
 |434|[Number Of Segments In A String](https://leetcode.com/problems/number-of-segments-in-a-string/)|[c++](./leetcode/434_number-of-segments-in-a-string/solution.cpp)|Easy|
 |445|[Add Two Numbers Ii](https://leetcode.com/problems/add-two-numbers-ii/)|[c++](./leetcode/445_add-two-numbers-ii/solution.cpp)|Medium|
 |449|[Serialize And Deserialize Bst](https://leetcode.com/problems/serialize-and-deserialize-bst/)|[c++](./leetcode/449_serialize-and-deserialize-bst/solution.cpp)|Medium|
+|450|[Delete Node In A Bst](https://leetcode.com/problems/delete-node-in-a-bst/)|[c++](./leetcode/450_delete-node-in-a-bst/solution.cpp)|Medium|
 |504|[Base 7](https://leetcode.com/problems/base-7/)|[c++](./leetcode/504_base-7/solution.cpp)|Easy|
 |508|[Most Frequent Subtree Sum](https://leetcode.com/problems/most-frequent-subtree-sum/)|[c++](./leetcode/508_most-frequent-subtree-sum/solution.cpp)|Medium|
 |509|[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)|[c++](./leetcode/509_fibonacci-number/solution.cpp)|Easy|
