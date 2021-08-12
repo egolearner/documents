@@ -7,3 +7,7 @@
   2. Open the source of the maven plugin you want to debug in intelliJ and set a breakPoint
   3. In IDEA, add a Remote JVM Debug Configuration. Under Settings, set Transport: Socket, Debugger Mode: Attach, Host: localhost, Port: 8000 (default port of mvnDebug).
   4. Run the Configuration in Debug mode. It should connect to the waiting mvnDebug jvm.
+* gdb java program
+```gdb
+handle SIGSEGV nostop noprint pass
+```
