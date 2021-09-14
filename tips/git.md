@@ -51,3 +51,8 @@ git ls-files -o
 ```
 git stash push -m xxx
 ```
+
+* use diff tool to show commit
+```
+git difftool -y 15dc8^!
+```
