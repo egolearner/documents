@@ -11,3 +11,7 @@
 ```gdb
 handle SIGSEGV nostop noprint pass
 ```
+* mvn run program
+```shell
+mvn exec:java -Dexec.mainClass=""
+```
