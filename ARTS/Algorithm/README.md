@@ -105,6 +105,8 @@
 |204|[Count Primes](https://leetcode.com/problems/count-primes/)|[c++](./leetcode/204_count-primes/solution.cpp)|Easy|
 |205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)|[c++](./leetcode/205_isomorphic-strings/solution.cpp)|Easy|
 |207|[Course Schedule](https://leetcode.com/problems/course-schedule/)|[c++](./leetcode/207_course-schedule/solution.cpp)|Medium|
+|208|[Implement Trie Prefix Tree](https://leetcode.com/problems/implement-trie-prefix-tree/)|[c++](./leetcode/208_implement-trie-prefix-tree/solution.cpp)|Medium|
+|211|[Design Add And Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/)|[c++](./leetcode/211_design-add-and-search-words-data-structure/solution.cpp)|Medium|
 |215|[Kth Largest Element In An Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)|[c++](./leetcode/215_kth-largest-element-in-an-array/solution.cpp)|Medium|
 |216|[Combination Sum Iii](https://leetcode.com/problems/combination-sum-iii/)|[c++](./leetcode/216_combination-sum-iii/solution.cpp)|Medium|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[c++](./leetcode/217_contains-duplicate/solution.cpp)|Easy|
