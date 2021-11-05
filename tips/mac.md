@@ -36,6 +36,10 @@ punctuator:
     "/" : "、"
     '%' : '%'
     '*' : '*'
+    
+    
+造词
+修改配置下的cqyx_userdict.txt，然后重新部署。
 ```
 
 * applescript关闭钉钉数字
