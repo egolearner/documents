@@ -186,7 +186,7 @@
 |783|[Minimum Distance Between Bst Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/)|[c++](./leetcode/783_minimum-distance-between-bst-nodes/solution.cpp)|Easy|
 |814|[Binary Tree Pruning](https://leetcode.com/problems/binary-tree-pruning/)|[c++](./leetcode/814_binary-tree-pruning/solution.cpp)|Medium|
 |817|[Linked List Components](https://leetcode.com/problems/linked-list-components/)|[c++](./leetcode/817_linked-list-components/solution.cpp)|Medium|
-|880|[Decoded String At Index](https://leetcode.com/problems/decoded-string-at-index/)|[c++](./leetcode/880_decoded-string-at-index/solution.cpp)|Unknown|
+|880|[Decoded String At Index](https://leetcode.com/problems/decoded-string-at-index/)|[c++](./leetcode/880_decoded-string-at-index/solution.cpp)|Medium|
 |884|[Uncommon Words From Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences/)|[c++](./leetcode/884_uncommon-words-from-two-sentences/solution.cpp)|Easy|
 |897|[Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree/)|[c++](./leetcode/897_increasing-order-search-tree/solution.cpp)|Easy|
 |905|[Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)|[c++](./leetcode/905_sort-array-by-parity/solution.cpp)|Easy|
@@ -223,6 +223,7 @@
 |1662|[Check If Two String Arrays Are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)|[c++](./leetcode/1662_check-if-two-string-arrays-are-equivalent/solution.cpp)|Easy|
 |1704|[Determine If String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike/)|[c++](./leetcode/1704_determine-if-string-halves-are-alike/solution.cpp)|Easy|
 |1754|[Largest Merge Of Two Strings](https://leetcode.com/problems/largest-merge-of-two-strings/)|[c++](./leetcode/1754_largest-merge-of-two-strings/solution.cpp)|Medium|
+|1807|[Evaluate The Bracket Pairs Of A String](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/)|[c++](./leetcode/1807_evaluate-the-bracket-pairs-of-a-string/solution.cpp)|Medium|
 
 ## Shell
 | # | Title | Solution | Difficulty |
