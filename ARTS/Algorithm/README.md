@@ -46,6 +46,7 @@
 |63|[Unique Paths Ii](https://leetcode.com/problems/unique-paths-ii/)|[go](./leetcode/63_unique-paths-ii/solution.go)|Medium|
 |67|[Add Binary](https://leetcode.com/problems/add-binary/)|[c++](./leetcode/67_add-binary/solution.cpp)|Easy|
 |71|[Simplify Path](https://leetcode.com/problems/simplify-path/)|[c++](./leetcode/71_simplify-path/solution.cpp)|Medium|
+|72|[Edit Distance](https://leetcode.com/problems/edit-distance/)|[c++](./leetcode/72_edit-distance/solution.cpp)|Hard|
 |74|[Search A 2 D Matrix](https://leetcode.com/problems/search-a-2-d-matrix/)|[c++](./leetcode/74_search-a-2-d-matrix/solution.cpp)|Medium|
 |75|[Sort Colors](https://leetcode.com/problems/sort-colors/)|[c++](./leetcode/75_sort-colors/solution.cpp)|Medium|
 |78|[Subsets](https://leetcode.com/problems/subsets/)|[c++](./leetcode/78_subsets/solution.cpp)|Medium|
