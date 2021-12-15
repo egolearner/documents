@@ -56,3 +56,8 @@ git stash push -m xxx
 ```
 git difftool -y 15dc8^!
 ```
+
+* update branch without checkout
+```
+git fetch <remote> <srcBranch>:<destBranch>
+```
