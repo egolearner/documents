@@ -128,6 +128,7 @@
 |257|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)|[c++](./leetcode/257_binary-tree-paths/solution.cpp)|Easy|
 |260|[Single Number Iii](https://leetcode.com/problems/single-number-iii/)|[c++](./leetcode/260_single-number-iii/solution.cpp)|Medium|
 |263|[Ugly Number](https://leetcode.com/problems/ugly-number/)|[c++](./leetcode/263_ugly-number/solution.cpp)|Easy|
+|264|[Ugly Number Ii](https://leetcode.com/problems/ugly-number-ii/)|[c++](./leetcode/264_ugly-number-ii/solution.cpp)|Medium|
 |278|[First Bad Version](https://leetcode.com/problems/first-bad-version/)|[c++](./leetcode/278_first-bad-version/solution.cpp)|Easy|
 |284|[Peeking Iterator](https://leetcode.com/problems/peeking-iterator/)|[c++](./leetcode/284_peeking-iterator/solution.cpp)|Medium|
 |287|[Find The Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)|[c++](./leetcode/287_find-the-duplicate-number/solution.cpp)|Medium|
